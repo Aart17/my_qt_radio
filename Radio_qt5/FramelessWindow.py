@@ -83,7 +83,7 @@ class TitleBar(QWidget):
             '[', self, font=font2, objectName='buttonMy')
         layout.addWidget(self.buttonMy)
 
-        self.shazam_btn = QPushButton(QIcon('shazam.png'), '', self)
+        self.shazam_btn = QPushButton(QIcon('images/shazam.png'), '', self)
         layout.addWidget(self.shazam_btn)
 
         # Свернуть кнопку

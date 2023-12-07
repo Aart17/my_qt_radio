@@ -18,10 +18,11 @@ class Radio(QtWidgets.QWidget):
         self.objectTitleBar = args[0].titleBar
         self.MainWindow = args[0]
         self.MainWindow.setWindowTitle("<b>Радио</b>")
-        self.MainWindow.setWindowIcon(QtGui.QIcon('2094284.png'))
+        self.MainWindow.setWindowIcon(QtGui.QIcon('images/icon.png'))
 
         # Вспомогательные переменные
         self.now_style = None  # Определяет нынешний стиль night/day или None
+        self.stl = ""  # Переменная для стилей(по умолчанию ночная тема)
         self.form_list = None
         self.open_add_l = False  # Открыта ли вкладка добавления радиостанции
         self.playing_radio = False  # Играет ли сейчас что-либо
@@ -30,7 +31,6 @@ class Radio(QtWidgets.QWidget):
         self.dic = {}
         self.added_radio_dic = {}  # Добавленные радиостанции
         self._def_radio_dic = {}  # Радиостанции по умолчанию
-        self.stl = ""  # Переменная для стилей(по умолчанию ночная тема)
 
         # Выполнение функций инициализации и установка стилей
         self.radio_init()  # Инициализация всех встроенных радиостанций
