@@ -1,0 +1,1094 @@
+{"name":"Татар Радиосы (Набережные Челны)","url":"http://stream.tatarradio.ru:2068/chally.mp3"}
+{"name":"Svitle Kids","url":"http://online.svitle.org:6728/kids.128.mp3"}
+{"name":"Mahoor Kids","url":"http://192.34.153.102:8000/kids.mp3"}
+{"name":"ZETKID","url":"https://zt03.cdn.eurozet.pl/ZETKID.mp3"}
+{"name":"МУЗ Радио (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_original_128.mp3"}
+{"name":"МУЗ Радио 00-е (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_00s_128.mp3"}
+{"name":"МУЗ Радио 90-е (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_90s_128.mp3"}
+{"name":"МУЗ Радио Dance (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_dance_128.mp3"}
+{"name":"МУЗ Радио Fresh (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_fresh_128.mp3"}
+{"name":"МУЗ Радио Top (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_top_128.mp3"}
+{"name":"МУЗ Радио Золотые Хиты (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_gold_128.mp3"}
+{"name":"МУЗ Радио Русский Чарт (128)","url":"http://online-3.gkvr.ru:8000/muztvradio_chart_128.mp3"}
+{"name":"BFM Radio","url":"http://audio.bfmtv.com/bfmradio_128.mp3"}
+{"name":"BTV Radio (BG)","url":"http://live.btvradio.bg/btv-radio.mp3"}
+{"name":"Country Radio (CZ)","url":"http://icecast4.play.cz/country128.mp3"}
+{"name":"Dance Radio (CZ)","url":"http://ice.actve.net/dance-radio128.mp3"}
+{"name":"Davidzon Radio (USA)","url":"http://radioserver.abinet.com:8800/dr.mp3"}
+{"name":"EHR FM (LV)","url":"http://stream.europeanhitradio.com:8000/ehr.mp3"}
+{"name":"EHR FM Latvian Hits","url":"http://stream.europeanhitradio.com:8000/Stream_22.mp3"}
+{"name":"EHR FM Super Hits","url":"http://stream.europeanhitradio.com:8000/Stream_21.mp3"}
+{"name":"EHR FM Русские Хиты","url":"http://stream.hitirossii.com:8000/khr.mp3"}
+{"name":"EHR-Acoustic","url":"http://stream.europeanhitradio.com:8000/Stream_26.mp3"}
+{"name":"EHR-Adventure","url":"http://stream.europeanhitradio.com:8000/Stream_25.mp3"}
+{"name":"EHR-Alternative","url":"http://stream.europeanhitradio.com:8000/Stream_37.mp3"}
+{"name":"EHR-Dance","url":"http://stream.europeanhitradio.com:8000/Stream_24.mp3"}
+{"name":"EHR-HipHop Hits","url":"http://stream.europeanhitradio.com:8000/Stream_11.mp3"}
+{"name":"EHR-Love Songs","url":"http://stream.europeanhitradio.com:8000/Stream_28.mp3"}
+{"name":"EHR-Remixes","url":"http://stream.europeanhitradio.com:8000/Stream_32.mp3"}
+{"name":"EHR-Remixes RU","url":"http://stream.europeanhitradio.com:8000/Stream_35.mp3"}
+{"name":"EHR-Tik Tok Hits","url":"http://stream.europeanhitradio.com:8000/Stream_38.mp3"}
+{"name":"EHR-Top 40 Ru","url":"http://stream.europeanhitradio.com:8000/Stream_33.mp3"}
+{"name":"ERR Klara Jazz","url":"http://icecast.err.ee/klarajazzkorge.mp3"}
+{"name":"ERR Klara Klassika","url":"http://icecast.err.ee/klaraklassikakorge.mp3"}
+{"name":"ERR Klassika","url":"http://icecast.err.ee:80/klassikaraadio.mp3"}
+{"name":"ERR Radio 2","url":"http://icecast.err.ee/raadio2korge.mp3"}
+{"name":"ERR Radio 2 Alt Pop","url":"http://icecast.err.ee/r2alternatiivkorge.mp3"}
+{"name":"ERR Radio 2 Eesti","url":"http://icecast.err.ee/r2eestikorge.mp3"}
+{"name":"ERR Radio 2 Pop","url":"http://icecast.err.ee/r2popkorge.mp3"}
+{"name":"ERR Radio 2 Rap","url":"http://icecast.err.ee/r2pkorge.mp3"}
+{"name":"ERR Radio 4","url":"http://icecast.err.ee:80/raadio4korge.mp3"}
+{"name":"ERR Radio Tallinn","url":"http://icecast.err.ee:80/raadiotallinnkorge.mp3"}
+{"name":"ERR Viker Radio","url":"http://icecast.err.ee/vikerraadiokorge.mp3"}
+{"name":"Fun Radio","url":"http://stream.funradio.sk:8000/fun192.mp3"}
+{"name":"Fun Radio 80-90","url":"http://stream.funradio.sk:8000/80-90-128.mp3"}
+{"name":"Fun Radio Chill","url":"http://stream.funradio.sk:8000/chill128.mp3"}
+{"name":"Fun Radio Cz-Sk","url":"http://stream.funradio.sk:8000/cs128.mp3"}
+{"name":"Fun Radio Dance","url":"http://stream.funradio.sk:8000/dance128.mp3"}
+{"name":"Hit Radio City (CZ)","url":"http://ice.abradio.cz/citybrno128.mp3"}
+{"name":"Latvijas Radio 5 Pieci","url":"http://live.pieci.lv/live19-hq.mp3"}
+{"name":"PULSRADIO 2000","url":"http://icecast.pulsradio.com/puls00HD.mp3"}
+{"name":"PULSRADIO 80's","url":"http://icecast.pulsradio.com/magicradioHD.mp3"}
+{"name":"PULSRADIO 90's","url":"http://icecast.pulsradio.com:80/puls90HD.mp3"}
+{"name":"PULSRADIO DANCE","url":"http://icecast.pulsradio.com:80/pulsHD.mp3"}
+{"name":"PULSRADIO HIT UK","url":"http://icecast.pulsradio.com/hitukHD.mp3"}
+{"name":"PULSRADIO HITS","url":"http://icecast.pulsradio.com:80/hitpartyHD.mp3"}
+{"name":"PULSRADIO LOUNGE","url":"http://icecast.pulsradio.com/relaxHD.mp3"}
+{"name":"PULSRADIO MX CLUB","url":"http://icecast.pulsradio.com/mxHD.mp3"}
+{"name":"PULSRADIO TRANCE","url":"http://icecast.pulsradio.com:80/pulstranceHD.mp3"}
+{"name":"Power Hit Radio (Эстония)","url":"http://ice.leviracloud.eu:8000/phr320-mp3"}
+{"name":"RM FM - Shredded","url":"http://rautemusik-de-hz-fal-stream12.radiohost.de/shredded_mp3-192"}
+{"name":"Radio 10 (NL)","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3"}
+{"name":"Radio 10 60&70 Hits","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3"}
+{"name":"Radio 10 80 Hits","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3"}
+{"name":"Radio 10 90 Hits","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3"}
+{"name":"Radio 10 Disco Classics","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3"}
+{"name":"Radio 10 Love Songs","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3"}
+{"name":"Radio 10 Non-Stop","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3"}
+{"name":"Radio 10 Top 4000","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3"}
+{"name":"Radio 100% Hardcore Will Never Die","url":"http://188.32.14.31:8010/radio.mp3"}
+{"name":"Radio 100% Scooter","url":"http://188.32.14.31:8000/radio.mp3"}
+{"name":"Radio 538 (NL)","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3"}
+{"name":"Radio 538 Classic","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3"}
+{"name":"Radio 538 Dance Dept","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3"}
+{"name":"Radio 538 Die Verruckte","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3"}
+{"name":"Radio 538 Hitzone","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3"}
+{"name":"Radio 538 Ibiza","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3"}
+{"name":"Radio 538 Nonstop","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3"}
+{"name":"Radio 538 Party","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3"}
+{"name":"Radio 538 Top 50","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3"}
+{"name":"Radio Aquarelle FM (Moldova)","url":"http://live.aquarellefm.md:8000/aquarellefm.mp3"}
+{"name":"Radio Araz FM","url":"http://s14.myradiostream.com:30454/listen.mp3"}
+{"name":"Radio Aripaev FM","url":"https://liveplay.aripaev.ee/stream.mp3"}
+{"name":"Radio Aurora (ARM)","url":"http://am.radioaurora.am:8010/al.mp3"}
+{"name":"Radio BOB! (DE)","url":"http://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer"}
+{"name":"Radio Best FM (SK)","url":"http://stream2.bestfm.sk/128.mp3"}
+{"name":"Radio Big FM (DE)","url":"http://streams.bigfm.de/bigfm-deutschland-128-mp3"}
+{"name":"Radio Big FM - Balkan","url":"http://streams.bigfm.de/bigfm-balkan-128-mp3"}
+{"name":"Radio Big FM - Charts","url":"http://streams.bigfm.de/bigfm-charts-128-mp3"}
+{"name":"Radio Big FM - Dance","url":"http://streams.bigfm.de/bigfm-dance-128-mp3"}
+{"name":"Radio Big FM - HipHop","url":"http://streams.bigfm.de/bigfm-hiphop-128-mp3"}
+{"name":"Radio Big FM - Mashup","url":"http://streams.bigfm.de/bigfm-mashup-128-mp3"}
+{"name":"Radio Big FM - Party","url":"http://streams.bigfm.de/bigfm-party-128-mp3"}
+{"name":"Radio Big FM - RNB","url":"http://streams.bigfm.de/bigfm-rnb-128-mp3"}
+{"name":"Radio Big FM - Russia","url":"http://streams.bigfm.de/bigfm-russia-128-mp3"}
+{"name":"Radio Big FM - Sports","url":"http://streams.bigfm.de/bigfm-sports-128-mp3"}
+{"name":"Radio Big FM - Sunset Lounge","url":"http://streams.bigfm.de/bigfm-sunsetlounge-128-mp3"}
+{"name":"Radio Chante France","url":"http://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3"}
+{"name":"Radio Chillizet (Warszawa)","url":"https://ch04.cdn.eurozet.pl/chi-net.mp3"}
+{"name":"Radio Citrus FM (GE)","url":"http://iis.ge:8000/CitrusFm.mp3"}
+{"name":"Radio Classic FM BG","url":"http://live.btvradio.bg/classic-fm.mp3"}
+{"name":"Radio Contact (BE)","url":"http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3"}
+{"name":"Radio Contact 2000","url":"http://contact2.ice.infomaniak.ch/contact2-192.mp3"}
+{"name":"Radio Contact 90s","url":"http://contact90s.ice.infomaniak.ch/contact90s-192.mp3"}
+{"name":"Radio Contact Kids","url":"http://contactkids.ice.infomaniak.ch/contactkids-192.mp3"}
+{"name":"Radio Contact Lounge","url":"http://contactlounge.ice.infomaniak.ch/contactlounge-192.mp3"}
+{"name":"Radio Contact Urban","url":"http://contacturban.ice.infomaniak.ch/contacturban-192.mp3"}
+{"name":"Radio Dance FM (ROM)","url":"http://edge126.rdsnet.ro:84/profm/dancefm.mp3"}
+{"name":"Radio Digi FM (ROM)","url":"http://edge76.rdsnet.ro:84/digifm/digifm.mp3"}
+{"name":"Radio ESKA (PL)","url":"https://radio.stream.smcdn.pl/icradio-p/2380-1.mp3/playlist.m3u8"}
+{"name":"Radio Elmar (Эстония)","url":"http://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.mp3"}
+{"name":"Radio Europa FM (ROM)","url":"http://astreaming.edi.ro:8000/europafm_mp3_64k"}
+{"name":"Radio European Hit","url":"http://82.135.234.195:8000/ehr.mp3"}
+{"name":"Radio Expres (SK)","url":"http://stream.expres.sk:8000/128.mp3"}
+{"name":"Radio FG Avant Garde","url":"http://radiofg.impek.com/ufg.mp3"}
+{"name":"Radio FG Maxximum","url":"http://radiofg.impek.com/max1.mp3"}
+{"name":"Radio FG Maxximum 90s","url":"http://radiofg.impek.com/max2.mp3"}
+{"name":"Radio FM99 (LT)","url":"http://82.135.234.195:8000/fm99.mp3"}
+{"name":"Radio Fitinn (Австрия)","url":"http://onair.krone.at/fitinn.mp3"}
+{"name":"Radio Fresh (Австралия)","url":"http://live.fresh927.com.au/freshmp3"}
+{"name":"Radio Geras FM (LT)","url":"http://82.135.234.195:8000/gerasfm.mp3"}
+{"name":"Radio Gold FM (LT)","url":"http://82.135.234.195:8000/goldfm.mp3"}
+{"name":"Radio Hereti (GE)","url":"http://iis.ge:8000/hereti.mp3"}
+{"name":"Radio Ibiza (IT)","url":"http://ice07.fluidstream.net/Ibiza.mp3"}
+{"name":"Radio Italia Anni 60","url":"http://ice04.fluidstream.net/ria60_ba.mp3"}
+{"name":"Radio Jazz FM (BG)","url":"http://live.btvradio.bg/jazz-fm.mp3"}
+{"name":"Radio Jazz FM (FR)","url":"http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"}
+{"name":"Radio Jazz FM (FR) - Afro Jazz","url":"http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3"}
+{"name":"Radio Jazz FM (FR) - Fusion Jazz","url":"http://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.mp3"}
+{"name":"Radio Jazz FM (FR) - Groov UP","url":"http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3"}
+{"name":"Radio Jazz FM (FR) - Happy Hour","url":"http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3"}
+{"name":"Radio Jazz FM (FR) - Latin Jazz","url":"http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3"}
+{"name":"Radio Jazz FM (FR) - Saxo Jazz","url":"http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3"}
+{"name":"Radio Kelyje Kaunas","url":"http://82.135.234.195:8000/kelyje_kaunas.mp3"}
+{"name":"Radio Kelyje Klaipeda","url":"http://82.135.234.195:8000/kelyje_klaipeda.mp3"}
+{"name":"Radio Kelyje Vilnius","url":"http://82.135.234.195:8000/kelyje_vilnius.mp3"}
+{"name":"Radio Kiss FM (DE)","url":"http://stream.kissfm.de/kissfm/mp3-192/internetradio/"}
+{"name":"Radio Kiss FM (Австралия)","url":"http://s9.nexuscast.com:8565/kissfm.mp3"}
+{"name":"Radio Kiss Kiss (IT)","url":"http://ice06.fluidstream.net/KissKiss.mp3"}
+{"name":"Radio Kiss Kiss - Disco Party","url":"http://ice06.fluidstream.net:8080/kk_discoparty.mp3"}
+{"name":"Radio Kiss Kiss - Gold Rock","url":"http://ice06.fluidstream.net:8080/kk_rock.mp3"}
+{"name":"Radio Kiss Kiss - History","url":"http://ice06.fluidstream.net:8080/kk_history.mp3"}
+{"name":"Radio Kiss Kiss - Latina","url":"http://ice06.fluidstream.net:8080/kk_latina.mp3"}
+{"name":"Radio Kiss Kiss - Sanremo","url":"http://ice06.fluidstream.net:8080/kk_sanremo.mp3"}
+{"name":"Radio Kiss Kiss - Trap","url":"http://ice06.fluidstream.net:8080/kk_trap.mp3"}
+{"name":"Radio Kronehit Charts","url":"https://secureonair.krone.at/kronehit99.mp3"}
+{"name":"Radio Kronehit Clubland","url":"https://secureonair.krone.at/kronehit98.mp3"}
+{"name":"Radio Kronehit Dance","url":"https://secureonair.krone.at/kronehit23.mp3"}
+{"name":"Radio Kronehit Eurodance","url":"https://secureonair.krone.at/kronehit21.mp3"}
+{"name":"Radio Kronehit Fresh","url":"https://secureonair.krone.at/kronehit22.mp3"}
+{"name":"Radio Kronehit Greatest Hits","url":"https://secureonair.krone.at/kronehit13.mp3"}
+{"name":"Radio Kronehit Latino","url":"https://secureonair.krone.at/kronehit05.mp3"}
+{"name":"Radio Kronehit Love","url":"https://secureonair.krone.at/kronehit14.mp3"}
+{"name":"Radio Kronehit Retro","url":"https://secureonair.krone.at/kronehit04.mp3"}
+{"name":"Radio Kuku (Эстония)","url":"http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3"}
+{"name":"Radio LFM","url":"http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3"}
+{"name":"Radio LFM - 2000","url":"https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3"}
+{"name":"Radio LFM - 90s","url":"https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3"}
+{"name":"Radio LFM - Latino","url":"https://webradio0008.ice.infomaniak.ch/webradio0008-128.mp3"}
+{"name":"Radio LFM - Latitude","url":"https://webradio0007.ice.infomaniak.ch/webradio0007-128.mp3"}
+{"name":"Radio LFM - Love","url":"https://webradio0010.ice.infomaniak.ch/webradio0010-128.mp3"}
+{"name":"Radio LFM - Scene Francaise","url":"https://webradio0005.ice.infomaniak.ch/webradio0005-128.mp3"}
+{"name":"Radio Laluna (LT)","url":"http://radio.m-1.fm/laluna/mp3"}
+{"name":"Radio Melody","url":"http://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3"}
+{"name":"Radio Monaco","url":"http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3"}
+{"name":"Radio Music FM (ROM)","url":"http://edge126.rdsnet.ro:84/profm/music-fm.mp3"}
+{"name":"Radio My Hits (Эстония)","url":"http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits_high.mp3"}
+{"name":"Radio N-Joy (BG)","url":"http://live.btvradio.bg/njoy.mp3"}
+{"name":"Radio NOR (GE)","url":"http://iis.ge:8000/nor.mp3"}
+{"name":"Radio NRJ (Basel)","url":"http://broadcast.infomaniak.ch/energybasel-high.mp3"}
+{"name":"Radio NRJ (Bern)","url":"http://broadcast.infomaniak.ch/energybern-high.mp3"}
+{"name":"Radio NRJ (FIN)","url":"http://stream.bauermedia.fi/nrj/nrj_128.mp3"}
+{"name":"Radio NRJ (GE)","url":"http://shaincast.caster.fm:24734/listen.mp3"}
+{"name":"Radio NRJ (Luzern)","url":"http://broadcast.infomaniak.ch/energyluzern-high.mp3"}
+{"name":"Radio NRJ (Zuerich)","url":"http://broadcast.infomaniak.ch/energyzuerich-high.mp3"}
+{"name":"Radio Naxcivan","url":"http://37.59.40.90:12782/;stream.mp3"}
+{"name":"Radio Noroc (Moldova)","url":"http://storage.voceabasarabiei.md:8000/radionoroc.mp3"}
+{"name":"Radio Nova News","url":"http://stream81.metacast.eu/novanews.mp3"}
+{"name":"Radio OUI FM (FR)","url":"http://ouifm.ice.infomaniak.ch/ouifm-high.mp3"}
+{"name":"Radio OUI FM Alternatif","url":"http://ouifm2.ice.infomaniak.ch/ouifm2.mp3"}
+{"name":"Radio OUI FM Blues n Rock","url":"https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3"}
+{"name":"Radio OUI FM Bringe the Noise","url":"http://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3"}
+{"name":"Radio OUI FM Classic Rock","url":"http://ouifm3.ice.infomaniak.ch/ouifm3.mp3"}
+{"name":"Radio OUI FM Girls Rock","url":"https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3"}
+{"name":"Radio OUI FM Rock 60s","url":"http://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3"}
+{"name":"Radio OUI FM Rock 70s","url":"http://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3"}
+{"name":"Radio OUI FM Rock Francais","url":"https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3"}
+{"name":"Radio OUI FM Rock Inde","url":"http://ouifm5.ice.infomaniak.ch/ouifm5.mp3"}
+{"name":"Radio Odishi","url":"https://live.radio.odishi.ge/odishi.mp3"}
+{"name":"Radio Pogoda (PL)","url":"http://stream10.radioagora.pl/tuba140-1.mp3"}
+{"name":"Radio Power FM (BG)","url":"http://a2.virtualradio.eu:8000/powerfm.mp3"}
+{"name":"Radio Pro FM (ROM)","url":"http://edge126.rdsnet.ro:84/profm/profm.mp3"}
+{"name":"Radio Pukas","url":"http://82.135.234.195:8000/pukas.mp3"}
+{"name":"Radio Pukas 2","url":"http://82.135.234.195:8000/pukas2.mp3"}
+{"name":"Radio Q Dance (NL)","url":"http://22613.live.streamtheworld.com/Q_DANCE.mp3"}
+{"name":"Radio Qebele","url":"https://radio.qebele.tv/radio/8010/radio.mp3"}
+{"name":"Radio Rai 1","url":"http://icestreaming.rai.it/1.mp3"}
+{"name":"Radio Rai 2","url":"http://icestreaming.rai.it/2.mp3"}
+{"name":"Radio Rai 3","url":"http://icestreaming.rai.it/3.mp3"}
+{"name":"Radio Record (Омск)","url":"http://www.omskfm.ru:8000/1044-128.mp3"}
+{"name":"Radio Record KG","url":"http://31.186.50.67:8000/record.mp3"}
+{"name":"Radio Relax (GE)","url":"http://iis.ge:8000/relax.mp3"}
+{"name":"Radio Relax (LT)","url":"https://stream2.relaxfm.lt/relaxfm128.mp3"}
+{"name":"Radio Relax (Moldova)","url":"http://stream.hitfm.md:8000/Relax_mp3_320"}
+{"name":"Radio Relaxace Birds","url":"https://ice6.abradio.cz/relax-morning-birds128.mp3"}
+{"name":"Radio Relaxace Fire","url":"https://ice6.abradio.cz/relax-fire128.mp3"}
+{"name":"Radio Relaxace More","url":"https://ice6.abradio.cz/relax-sea128.mp3"}
+{"name":"Radio Relaxace Thunder Rain","url":"https://ice6.abradio.cz/relax-thunder-rain128.mp3"}
+{"name":"Radio Relaxace Train","url":"https://ice6.abradio.cz/relax-train128.mp3"}
+{"name":"Radio Rete 1","url":"http://streaming.swisstxt.ch/m/reteuno/mp3_128"}
+{"name":"Radio Rete 2","url":"http://streaming.swisstxt.ch/m/retedue/mp3_128"}
+{"name":"Radio Rete 3","url":"http://streaming.swisstxt.ch/m/retetre/mp3_128"}
+{"name":"Radio Retro FM Disco","url":"http://skymedia-live.bitflip.ee/retro1.mp3"}
+{"name":"Radio Retro FM Eestikas","url":"http://skymedia-live.bitflip.ee/retro2.mp3"}
+{"name":"Radio Rezekne (LV)","url":"http://195.13.164.134:8000/source.mp3"}
+{"name":"Radio Rock Antenne (DE)","url":"http://mp3channels.webradio.antenne.de/rockantenne"}
+{"name":"Radio Rock Antenne - 70er Rock","url":"http://mp3channels.webradio.antenne.de/70er-rock"}
+{"name":"Radio Rock Antenne - 80er Rock","url":"http://mp3channels.webradio.antenne.de/80er-rock"}
+{"name":"Radio Rock Antenne - 90er Rock","url":"http://mp3channels.webradio.antenne.de/90er-rock"}
+{"name":"Radio Rock Antenne - Biker Rock","url":"http://mp3channels.webradio.antenne.de/biker-rock"}
+{"name":"Radio Rock Antenne - Deutsch Rock","url":"http://mp3channels.webradio.antenne.de/deutschrock"}
+{"name":"Radio Rock Antenne - Heavy Metal","url":"http://mp3channels.webradio.antenne.de/heavy-metal"}
+{"name":"Radio Rock Antenne - Modern Rock","url":"http://mp3channels.webradio.antenne.de/modern-rock"}
+{"name":"Radio Rock Antenne - Symphonic Rock","url":"http://mp3channels.webradio.antenne.de/symphonic-rock"}
+{"name":"Radio Rock FM (LT)","url":"http://stream2.rockfm.lt/crf128.mp3"}
+{"name":"Radio Rouge","url":"http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"}
+{"name":"Radio Rouge Best Hits","url":"http://rouge-besthits.ice.infomaniak.ch/rouge-besthits-128.mp3"}
+{"name":"Radio Rouge Best Hits 90s","url":"http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3"}
+{"name":"Radio Rouge Club Story","url":"http://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3"}
+{"name":"Radio Rouge Latino","url":"http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3"}
+{"name":"Radio Rouge Made in France","url":"http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3"}
+{"name":"Radio Rouge Reggae","url":"http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3"}
+{"name":"Radio Rouge Rock","url":"http://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.mp3"}
+{"name":"Radio Rouge Urban","url":"http://rouge-urban.ice.infomaniak.ch/rouge-urban-128.mp3"}
+{"name":"Radio SWH (LV)","url":"http://80.232.162.149:8000/swh96mp3"}
+{"name":"Radio SWH Gold","url":"http://80.232.162.149:8000/gold96mp3"}
+{"name":"Radio SWH Plus","url":"http://80.232.162.149:8000/plus96mp3"}
+{"name":"Radio SWH Rock","url":"http://80.232.162.149:8000/rock96mp3"}
+{"name":"Radio SWH Spin","url":"http://80.232.162.149:8000/spin96mp3"}
+{"name":"Radio Saules","url":"http://saule-mp3.vinlita.lt:8008/stream.mp3"}
+{"name":"Radio Sky Plus - Gold","url":"http://skymedia-live.bitflip.ee/skyplus_gold.mp3"}
+{"name":"Radio Sky Plus - Top","url":"http://skymedia-live.bitflip.ee/skyplus_top40.mp3"}
+{"name":"Radio Slam! 00s","url":"http://stream.slam.nl/web15_mp3"}
+{"name":"Radio Slam! 40","url":"http://stream.slam.nl/web14_mp3"}
+{"name":"Radio Slam! Hardstyle","url":"http://stream.slam.nl/web11_mp3"}
+{"name":"Radio Slam! Housuh In De Pauzuh","url":"http://stream.slam.nl/web16_mp3"}
+{"name":"Radio Slam! Juize","url":"http://stream.slam.nl/web09_mp3"}
+{"name":"Radio Slam! MixMarathon","url":"http://stream.slam.nl/web13_mp3"}
+{"name":"Radio Slam! Non-stop","url":"http://stream.slam.nl/web10_mp3"}
+{"name":"Radio Slam! The Boom Room","url":"http://stream.slam.nl/web12_mp3"}
+{"name":"Radio Slovakia","url":"http://icecast.stv.livebox.sk/fm_128.mp3"}
+{"name":"Radio Slovakia Devin","url":"http://icecast.stv.livebox.sk/devin_128.mp3"}
+{"name":"Radio Slovakia International","url":"http://icecast.stv.livebox.sk/rsi_128.mp3"}
+{"name":"Radio Slovakia Junior","url":"http://icecast.stv.livebox.sk/junior_128.mp3"}
+{"name":"Radio Slovakia Klasika","url":"http://icecast.stv.livebox.sk/klasika_128.mp3"}
+{"name":"Radio Slovakia Litera","url":"http://icecast.stv.livebox.sk/litera_128.mp3"}
+{"name":"Radio Slovakia Patria","url":"http://icecast.stv.livebox.sk/patria_128.mp3"}
+{"name":"Radio Slovakia Pyramida","url":"http://icecast.stv.livebox.sk/pyramida_128.mp3"}
+{"name":"Radio Slovakia Rada","url":"http://icecast.stv.livebox.sk/rada_128.mp3"}
+{"name":"Radio Slovensko","url":"http://icecast.stv.livebox.sk/slovensko_128.mp3"}
+{"name":"Radio Star FM (LV)","url":"http://starfm.live.advailo.com/audio/mp3/icecast.audio"}
+{"name":"Radio Star FM (Эстония)","url":"http://ice.leviracloud.eu:8000/star320-mp3"}
+{"name":"Radio Swiss Classic","url":"http://stream.srg-ssr.ch/m/rsc_de/mp3_128"}
+{"name":"Radio Swiss Jazz","url":"http://stream.srg-ssr.ch/m/rsj/mp3_128"}
+{"name":"Radio Swiss Pop","url":"http://stream.srg-ssr.ch/m/rsp/mp3_128"}
+{"name":"Radio TOK FM (PL)","url":"http://stream10.radioagora.pl/tuba10-1.mp3"}
+{"name":"Radio Tbilisi (GE)","url":"http://iis.ge:8000/radiotbilisi.mp3"}
+{"name":"Radio Teddy (DE)","url":"http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Bibi & Tina","url":"http://streamtdy.ir-media-tec.com/cool/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Charts & Neue Hits","url":"http://streamtdy.ir-media-tec.com/charts-hits/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Deutsch Pop","url":"http://streamtdy.ir-media-tec.com/deutschpop/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Deutsche Balladen","url":"http://streamtdy.ir-media-tec.com/softmix/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Eure Superstars","url":"http://streamtdy.ir-media-tec.com/eure-superstars/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Gute Nacht","url":"http://streamtdy.ir-media-tec.com/gutenacht/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Kinder Disco","url":"http://streamtdy.ir-media-tec.com/disco/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Kinder Lieder","url":"http://streamtdy.ir-media-tec.com/kinderlieder/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Kita Kabelsalat","url":"http://streamtdy.ir-media-tec.com/kita-kabelsalat/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Rolf Zuckowski","url":"http://streamtdy.ir-media-tec.com/zuckowski/mp3-128/web/play.mp3"}
+{"name":"Radio Teddy - Schlager","url":"http://streamtdy.ir-media-tec.com/schlager/mp3-128/web/play.mp3"}
+{"name":"Radio The Voice (DK)","url":"http://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"}
+{"name":"Radio Top80 (PL)","url":"http://top80.pl:8000/listen.mp3"}
+{"name":"Radio Vaasa (FIN)","url":"http://stream.protonbroadcast.com:8000/radiovaasa.mp3"}
+{"name":"Radio Veronica Alternative","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12.mp3"}
+{"name":"Radio Veronica Rock","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3"}
+{"name":"Radio Veronica Top 1000","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10.mp3"}
+{"name":"Radio Veronica Vintage","url":"http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3"}
+{"name":"Radio Voice of Abkhazia","url":"http://109.172.136.60:8081/broadwavehigh.mp3"}
+{"name":"Radio WIT FM (FR)","url":"http://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3"}
+{"name":"Radio WIT FM-2000","url":"http://wit2000.ice.infomaniak.ch/wit2000.mp3"}
+{"name":"Radio WIT FM-80’s","url":"http://wit80s.ice.infomaniak.ch/wit80s.mp3"}
+{"name":"Radio WIT FM-90’s","url":"http://wit90s.ice.infomaniak.ch/wit90s.mp3"}
+{"name":"Radio WIT FM-Club","url":"http://witclub.ice.infomaniak.ch/witclub.mp3"}
+{"name":"Radio WIT FM-Latina","url":"http://witlatina.ice.infomaniak.ch/witlatina.mp3"}
+{"name":"Radio WIT FM-Lounge","url":"http://witlounge.ice.infomaniak.ch/witlounge.mp3"}
+{"name":"Radio WIT FM-Love","url":"http://witlove.ice.infomaniak.ch/witlove.mp3"}
+{"name":"Radio Warszawa (PL)","url":"http://streaming01.technologicznie.net:8765/radio_warszawa.mp3"}
+{"name":"Radio Xezer FM (AZ)","url":"https://s30.myradiostream.com/:32684/listen.mp3"}
+{"name":"Radio Z-Rock (BG)","url":"http://live.btvradio.bg/z-rock.mp3"}
+{"name":"Radio Ziniur","url":"https://netradio.ziniur.lt/ziniur.mp3"}
+{"name":"Radio Zip FM (LT)","url":"http://stream2.zipfm.lt/zipfm128.mp3"}
+{"name":"Sunshine Radio","url":"http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3"}
+{"name":"Sunshine Radio Landler","url":"http://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3"}
+{"name":"VIRGIN Radio (ROM)","url":"http://astreaming.edi.ro:8000/virgin_mp3_64k"}
+{"name":"Virgin Radio (FR)","url":"http://stream.virginradio.fr:8000/virgin.mp3"}
+{"name":"Virgin Radio Classics","url":"http://stream.virginradio.fr:8000/vr-wr2.mp3"}
+{"name":"Virgin Radio Electroshock","url":"http://stream.virginradio.fr:8000/vr-wr3.mp3"}
+{"name":"Virgin Radio Garorock","url":"http://stream.virginradio.fr:8000/vr-wr7.mp3"}
+{"name":"Virgin Radio Hits","url":"http://stream.virginradio.fr:8000/vr-wr4.mp3"}
+{"name":"Virgin Radio New","url":"http://stream.virginradio.fr:8000/vr-wr1.mp3"}
+{"name":"Virgin Radio Nouvelle Scene","url":"http://stream.virginradio.fr:8000/vr-wr8.mp3"}
+{"name":"Virgin Radio Rock","url":"http://stream.virginradio.fr:8000/vr-wr5.mp3"}
+{"name":"Virgin Tonic Radio","url":"http://stream.virginradio.fr:8000/vr-wr6.mp3"}
+{"name":"АвтоРадио (BG)","url":"http://stream81.metacast.eu/avtoradio.mp3"}
+{"name":"Авторадио (Абакан)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_1"}
+{"name":"Авторадио (Альметьевск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_2"}
+{"name":"Авторадио (Арзамас)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_5"}
+{"name":"Авторадио (Артем)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_405"}
+{"name":"Авторадио (Астрахань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_8"}
+{"name":"Авторадио (Ачинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_10"}
+{"name":"Авторадио (Белогорск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_19"}
+{"name":"Авторадио (Березники)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_21"}
+{"name":"Авторадио (Биробиджан)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_349"}
+{"name":"Авторадио (Благовещенск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_23"}
+{"name":"Авторадио (Боровичи)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_426"}
+{"name":"Авторадио (Брянск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_28"}
+{"name":"Авторадио (Валдай)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_328"}
+{"name":"Авторадио (Великий Новгород)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_33"}
+{"name":"Авторадио (Владимир)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_36"}
+{"name":"Авторадио (Волгоград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_37"}
+{"name":"Авторадио (Волгодонск)","url":"http://78.25.82.134:8000/stream-41-128-44100-mp3"}
+{"name":"Авторадио (Выкса)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_404"}
+{"name":"Авторадио (Гусь-Хрустальный)","url":"http://31.133.201.78:8080/Avto.mp3"}
+{"name":"Авторадио (Димитровград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_50"}
+{"name":"Авторадио (Ейск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_52"}
+{"name":"Авторадио (Екатеринбург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_53"}
+{"name":"Авторадио (Зарайск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_58"}
+{"name":"Авторадио (Златоуст)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_60"}
+{"name":"Авторадио (Казань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_66"}
+{"name":"Авторадио (Калининград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_67"}
+{"name":"Авторадио (Калуга)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_69"}
+{"name":"Авторадио (Канск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_73"}
+{"name":"Авторадио (Карасук)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_452"}
+{"name":"Авторадио (Киров)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_76"}
+{"name":"Авторадио (Комсомольск на-Амуре)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_80"}
+{"name":"Авторадио (Кострома)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_82"}
+{"name":"Авторадио (Котлас)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_83"}
+{"name":"Авторадио (Красноуфимск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_85"}
+{"name":"Авторадио (Красноярск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_86"}
+{"name":"Авторадио (Кузнецк)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_467"}
+{"name":"Авторадио (Куйбышев)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_90"}
+{"name":"Авторадио (Майкоп)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_394"}
+{"name":"Авторадио (Махачкала)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_407"}
+{"name":"Авторадио (Миасс)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_105"}
+{"name":"Авторадио (Миллерово)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_432"}
+{"name":"Авторадио (Михайловка)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_499"}
+{"name":"Авторадио (Можайск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_256"}
+{"name":"Авторадио (Набережные Челны)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_113"}
+{"name":"Авторадио (Нижневартовск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_119"}
+{"name":"Авторадио (Новосибирск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_122"}
+{"name":"Авторадио (Новочеркасск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_330"}
+{"name":"Авторадио (Норильск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_124"}
+{"name":"Авторадио (Нурлат)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_368"}
+{"name":"Авторадио (Обнинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_127"}
+{"name":"Авторадио (Омск)","url":"http://79.133.160.197:8000/1068-128.mp3"}
+{"name":"Авторадио (Орск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_133"}
+{"name":"Авторадио (Пенза)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_135"}
+{"name":"Авторадио (Пермь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_138"}
+{"name":"Авторадио (Петропавловск-Камчатский)","url":"http://91.189.237.222:8000/auto.mp3"}
+{"name":"Авторадио (Ржев)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_146"}
+{"name":"Авторадио (Ростов на-Дону)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_148"}
+{"name":"Авторадио (Рязань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_151"}
+{"name":"Авторадио (Самара)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_153"}
+{"name":"Авторадио (Санкт-Петербург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_154"}
+{"name":"Авторадио (Севастополь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_237"}
+{"name":"Авторадио (Селижарово)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_351"}
+{"name":"Авторадио (Симферополь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_238"}
+{"name":"Авторадио (Сочи)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_171"}
+{"name":"Авторадио (Ставрополь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_173"}
+{"name":"Авторадио (Старый Оскол)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_350"}
+{"name":"Авторадио (Сургут)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_177"}
+{"name":"Авторадио (Сызрань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_178"}
+{"name":"Авторадио (Тамбов)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_181"}
+{"name":"Авторадио (Татарск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_379"}
+{"name":"Авторадио (Тверь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_182"}
+{"name":"Авторадио (Тулун)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_415"}
+{"name":"Авторадио (Улан-Удэ)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_194"}
+{"name":"Авторадио (Ульяновск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_195"}
+{"name":"Авторадио (Усть-Илимск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_458"}
+{"name":"Авторадио (Уфа)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_200"}
+{"name":"Авторадио (Хабаровск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_202"}
+{"name":"Авторадио (Чаны)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_443"}
+{"name":"Авторадио (Чебоксары)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_205"}
+{"name":"Авторадио (Челябинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_206"}
+{"name":"Авторадио (Череповец)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_207"}
+{"name":"Авторадио (Шадринск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_211"}
+{"name":"Авторадио (Элиста)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_592"}
+{"name":"Авторадио (Ярославль)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_avto_218"}
+{"name":"БИМ Радио (Казань)","url":"http://av.bimradio.ru:8066/bim_mp3"}
+{"name":"Белое Радио (Березники)","url":"http://89.250.214.162:8080/whiteradio.mp3"}
+{"name":"Детское Радио (Астрахань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_3"}
+{"name":"Детское Радио (Барнаул)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_29"}
+{"name":"Детское Радио (Волгоград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_30"}
+{"name":"Детское Радио (Екатеринбург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_5"}
+{"name":"Детское Радио (Ижевск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_25"}
+{"name":"Детское Радио (Краснодар)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_7"}
+{"name":"Детское Радио (Красноярск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_8"}
+{"name":"Детское Радио (Нижний Новгород)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_9"}
+{"name":"Детское Радио (Новосибирск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_10"}
+{"name":"Детское Радио (Омск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_11"}
+{"name":"Детское Радио (Пермь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_12"}
+{"name":"Детское Радио (Ростов на-Дону)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_14"}
+{"name":"Детское Радио (Рязань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_15"}
+{"name":"Детское Радио (Санкт-Петербург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_2"}
+{"name":"Детское Радио (Саратов)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_27"}
+{"name":"Детское Радио (Смоленск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_17"}
+{"name":"Детское Радио (Тольятти)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_deti_18"}
+{"name":"Детское Радио (Уфа)","url":"http://hitster.hostingradio.ru:8010/detifmufa128.mp3"}
+{"name":"Дорожное Радио","url":"http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3"}
+{"name":"Дорожное Радио (Брянск)","url":"http://109.198.193.192:8008/BRYANSK_DR_office_AIR.mp3"}
+{"name":"Дорожное Радио (Воронеж)","url":"http://emgregion.hostingradio.ru:8064/voronezh.dorognoe.mp3"}
+{"name":"Дорожное Радио (Екатеринбург)","url":"http://emgregion.hostingradio.ru:8064/ekb.dorognoe.mp3"}
+{"name":"Дорожное Радио (Иваново)","url":"http://91.219.74.220:8000/Dorognoe.mp3"}
+{"name":"Дорожное Радио (Казань)","url":"http://emgregion.hostingradio.ru:8064/kazan.dorognoe.mp3"}
+{"name":"Дорожное Радио (Кострома)","url":"http://emgregion.hostingradio.ru:8064/kostroma.dorognoe.mp3"}
+{"name":"Дорожное Радио (Нижний Новгород)","url":"http://emgregion.hostingradio.ru:8064/nnovgorod.dorognoe.mp3"}
+{"name":"Дорожное Радио (Омск)","url":"http://emgregion.hostingradio.ru:8064/omsk.dorognoe.mp3"}
+{"name":"Дорожное Радио (Пермь)","url":"http://emgregion.hostingradio.ru:8064/perm.dorognoe.mp3"}
+{"name":"Дорожное Радио (Петропавловск-Камчатский)","url":"http://91.189.237.222:8000/dorozj.mp3"}
+{"name":"Дорожное Радио (С.-Петербург)","url":"http://emgregion.hostingradio.ru:8064/spb.dorognoe.mp3"}
+{"name":"Дорожное Радио (Самара)","url":"http://emgregion.hostingradio.ru:8064/samara.dorognoe.mp3"}
+{"name":"Дорожное Радио (Смоленск)","url":"http://emgregion.hostingradio.ru:8064/smolensk.dorognoe.mp3"}
+{"name":"Дорожное Радио (Сочи)","url":"http://emgregion.hostingradio.ru:8064/sochi.dorognoe.mp3"}
+{"name":"Дорожное Радио (Ставрополь)","url":"http://193.107.103.61:1682/dorozhnoe.mp3"}
+{"name":"Дорожное Радио (Тольятти)","url":"http://emgregion.hostingradio.ru:8064/tolyati.dorognoe.mp3"}
+{"name":"Дорожное Радио (Уфа)","url":"http://emgregion.hostingradio.ru:8064/ufa.dorognoe.mp3"}
+{"name":"Дорожное Радио - Ностальгия","url":"http://stream1.hostingradio.ru:8010/19_mp3_128"}
+{"name":"Дорожное Радио - Танцпол","url":"http://stream1.hostingradio.ru:8010/26_mp3_128"}
+{"name":"Камеди Радио (Воткинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_97"}
+{"name":"Камеди Радио (Екатеринбург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_9"}
+{"name":"Камеди Радио (Ижевск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_7"}
+{"name":"Камеди Радио (Красноярск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_24"}
+{"name":"Камеди Радио (Нижний Тагил)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_137"}
+{"name":"Камеди Радио (Новосибирск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_14"}
+{"name":"Камеди Радио (Омск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_146"}
+{"name":"Камеди Радио (Орел)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_46"}
+{"name":"Камеди Радио (Пермь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_29"}
+{"name":"Камеди Радио (С.Петербург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_31"}
+{"name":"Камеди Радио (Самара)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_34"}
+{"name":"Камеди Радио (Саратов)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_77"}
+{"name":"Камеди Радио (Усть-Илимск)","url":"http://91.219.136.152:55655/stream2.mp3"}
+{"name":"Камеди Радио (Уфа)","url":"http://hitster.hostingradio.ru:8010/comedyufa192.mp3"}
+{"name":"Камеди Радио (Шатура)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_comedy_6"}
+{"name":"Классное Радио","url":"http://schoolradio.hostingradio.ru:8026/schoolradio128.mp3"}
+{"name":"Лав Радио (Тихорецк)","url":"http://85.175.216.65:8889/128k.mp3"}
+{"name":"Лав Радио KZ","url":"http://stream.gakku.tv:8000/love128.mp3"}
+{"name":"Лайт Радио","url":"http://lightradio.radiostream.pro/mp3"}
+{"name":"МУЗ Радио","url":"http://online-3.gkvr.ru:8000/muztvradio_original_128.mp3"}
+{"name":"МУЗ Радио 00-е","url":"http://online-3.gkvr.ru:8000/muztvradio_00s_128.mp3"}
+{"name":"МУЗ Радио 90-е","url":"http://online-3.gkvr.ru:8000/muztvradio_90s_128.mp3"}
+{"name":"МУЗ Радио Dance","url":"http://online-3.gkvr.ru:8000/muztvradio_dance_128.mp3"}
+{"name":"МУЗ Радио Gold","url":"http://online-3.gkvr.ru:8000/muztvradio_gold_128.mp3"}
+{"name":"Матур Радио","url":"http://radio.matur-tv.ru:80/radio/radio-mp3-128k"}
+{"name":"Местное Радио (Костомукша)","url":"http://93.190.204.101:8000/live_100_4.mp3"}
+{"name":"Модное Радио (С.-Петербург)","url":"http://cast.modnoeradio.ru:8000/mp320r"}
+{"name":"Мото Радио","url":"http://stream.motoradio.online:8000/high-mp3"}
+{"name":"Музыка из игр:Радио Retro PC Game","url":"http://gyusyabu.ddo.jp:8000/;stream.mp3"}
+{"name":"Народное Радио (Эстония)","url":"http://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3"}
+{"name":"Наше Радио (Екатеринбург)","url":"http://nasheekt.hostingradio.ru/nasheekt128.mp3"}
+{"name":"Наше Радио (Калининград)","url":"http://bp.koenig.ru:8000/Nashe_Radio_KLD.mp3"}
+{"name":"Наше Радио (Курск)","url":"http://77.241.21.10:8000/nasheradio.mp3"}
+{"name":"Наше Радио (Санкт-Петербург)","url":"http://nashe1.hostingradio.ru/nashespb128.mp3"}
+{"name":"Наше Радио (Саратов)","url":"http://nashereg.hostingradio.ru/saratov.nashe128.mp3"}
+{"name":"Наше Радио (Тверь)","url":"http://87f20808b1fc.sn.mynetname.net:8013/nashe128.mp3"}
+{"name":"Наше Радио - Классик рок","url":"http://nashe1.hostingradio.ru:80/nasheclassic.mp3"}
+{"name":"Наше Радио - Панки Хой!","url":"http://nashe1.hostingradio.ru:80/nashepunks.mp3"}
+{"name":"Наше Радио - Щас спою","url":"http://nashe1.hostingradio.ru:80/nashesongs.mp3"}
+{"name":"Нефтерадио","url":"http://m8m128.hostingradio.ru:8074/m8m128.mp3"}
+{"name":"Новое Радио (Воронеж)","url":"http://emgregion.hostingradio.ru:8064/voronezh.novoe.mp3"}
+{"name":"Новое Радио (Екатеринбург)","url":"http://emgregion.hostingradio.ru:8064/ekb.novoe.mp3"}
+{"name":"Новое Радио (Иваново)","url":"http://91.219.74.220:8000/NewRadio.mp3"}
+{"name":"Новое Радио (Краснодар)","url":"http://emgregion.hostingradio.ru:8064/krasnodar.novoe.mp3"}
+{"name":"Новое Радио (Нижний Новгород)","url":"http://emgregion.hostingradio.ru:8064/nnovgorod.novoe.mp3"}
+{"name":"Новое Радио (Омск)","url":"http://emgregion.hostingradio.ru:8064/omsk.novoe.mp3"}
+{"name":"Новое Радио (Пермь)","url":"http://emgregion.hostingradio.ru:8064/perm.novoe.mp3"}
+{"name":"Новое Радио (С.-Петербург)","url":"http://emgspb.hostingradio.ru/novoespb128.mp3"}
+{"name":"Новое Радио (Самара)","url":"http://emgregion.hostingradio.ru:8064/samara.novoe.mp3"}
+{"name":"Новое Радио (Сочи)","url":"http://emgregion.hostingradio.ru:8064/sochi.novoe.mp3"}
+{"name":"Новое Радио (Ставрополь)","url":"http://emgregion.hostingradio.ru:8064/stavropol.novoe.mp3"}
+{"name":"Новое Радио (Тольятти)","url":"http://emgregion.hostingradio.ru:8064/tolyati.novoe.mp3"}
+{"name":"Новое Радио (Уфа)","url":"http://hitster.hostingradio.ru:8006/novoeradioufa128.mp3"}
+{"name":"Новое Радио (Челябинск)","url":"http://emgregion.hostingradio.ru:8064/chelyabinsk.novoe.mp3"}
+{"name":"Первое Союзное радио","url":"http://souz.hostingradio.ru:80/souz192.mp3"}
+{"name":"Радио 1","url":"http://cdn.radio1.news:8000/rtvp_mp3"}
+{"name":"Радио 10 (Петрозаводск)","url":"http://ic.radio10.live/stream.mp3"}
+{"name":"Радио 106.9 FM (Тольятти)","url":"http://online.106i9fm.ru:8000/106i9_mp3"}
+{"name":"Радио 107 (Краснодар)","url":"http://62.183.34.109:8000/radio107_320.mp3"}
+{"name":"Радио 16Bit.FM - Cafe","url":"http://16bitfm.com:8000/cafe_mp3_320"}
+{"name":"Радио 16Bit.FM - Extra","url":"http://16bitfm.com:8000/extra_mp3_128"}
+{"name":"Радио 16Bit.FM - I.D.E.A.","url":"http://16bitfm.com:8000/idea_mp3_320"}
+{"name":"Радио 16Bit.FM - ProBeat","url":"http://16bitfm.com:8000/main_mp3_320"}
+{"name":"Радио 16Bit.FM - Wine","url":"http://16bitfm.com:8000/wine_mp3_192"}
+{"name":"Радио 3 (Омск)","url":"http://81.23.194.18:8010/radio3.mp3"}
+{"name":"Радио 7 на семи холмах","url":"http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3"}
+{"name":"Радио 7 на семи холмах (Владимир)","url":"http://emgregion.hostingradio.ru:8064/vladimir.radio7.mp3"}
+{"name":"Радио 7 на семи холмах (Воронеж)","url":"http://emgregion.hostingradio.ru:8064/voronezh.radio7.mp3"}
+{"name":"Радио 7 на семи холмах (Калининград)","url":"http://bp.koenig.ru:8000/Radio_7_KLD.mp3"}
+{"name":"Радио 7 на семи холмах (Новороссийск)","url":"http://emgregion.hostingradio.ru:8064/novorossiysk.radio7.mp3"}
+{"name":"Радио 7 на семи холмах (Пермь)","url":"http://emgregion.hostingradio.ru:8064/perm.radio7.mp3"}
+{"name":"Радио 7 на семи холмах (Ставрополь)","url":"http://emgregion.hostingradio.ru:8064/stavropol.radio7.mp3"}
+{"name":"Радио 7 на семи холмах (Тольятти)","url":"http://emgregion.hostingradio.ru:8064/tolyati.radio7.mp3"}
+{"name":"Радио 7 на семи холмах (Челябинск)","url":"http://emgregion.hostingradio.ru:8064/chelyabinsk.radio7.mp3"}
+{"name":"Радио 99.1 FM (Красноярск)","url":"http://online.99-1.ru:8000/99i1_mp3"}
+{"name":"Радио Capital FM (Moscow)","url":"http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3"}
+{"name":"Радио DFM","url":"http://dfm.hostingradio.ru/dfm128.mp3"}
+{"name":"Радио DFM (Белореченск)","url":"http://185.175.119.31:8884/128k.mp3"}
+{"name":"Радио DFM (Брянск)","url":"http://109.198.193.192:8008/BRYANSK_DFM_office_AIR.mp3"}
+{"name":"Радио DFM (Гусь-Хрустальный)","url":"http://31.133.201.78:8080/DFm.mp3"}
+{"name":"Радио DFM (Эстония)","url":"http://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.mp3"}
+{"name":"Радио DFM (Эстония) - Russian Dance","url":"http://router.euddn.net/8103046e16b71d15d692b57c187875c7/DFM_RD.mp3"}
+{"name":"Радио Deluxe","url":"http://radiodeluxe.hostingradio.ru:8027/radiodeluxe.mp3"}
+{"name":"Радио EDM","url":"http://lk.castnow.ru:8100/edm-320.mp3"}
+{"name":"Радио Fresh Rock","url":"http://stream.freshrock.net/320.mp3"}
+{"name":"Радио G-Drive","url":"http://m4m128.hostingradio.ru:8074/m4m128.mp3"}
+{"name":"Радио Hard Rock","url":"http://stream.hardrockfm.ru:8100/hardrockfm-320.mp3"}
+{"name":"Радио Hit FM (Moldova)","url":"http://stream.hitfm.md:8000/HitFM_mp3"}
+{"name":"Радио IT (Ростов на-Дону)","url":"http://stream.jingles.ru:8000/rock-it-radio-mp3-256"}
+{"name":"Радио IT - LITE","url":"http://stream.jingles.ru:8000/lite-radio-mp3-256"}
+{"name":"Радио Insomnia","url":"https://radioinsomnia.gyurgin.pro:8000/radio.mp3"}
+{"name":"Радио Jazz - Classic","url":"http://jfm1.hostingradio.ru:14536/ijstream.mp3"}
+{"name":"Радио Jazz - Legends","url":"http://jfm1.hostingradio.ru:14536/jlstream.mp3"}
+{"name":"Радио Jazz - Smooth","url":"http://jfm1.hostingradio.ru:14536/sjstream.mp3"}
+{"name":"Радио Jazz - Vocals","url":"http://jfm1.hostingradio.ru:14536/jvstream.mp3"}
+{"name":"Радио Kamonof FM","url":"https://lk.castnow.ru:8100/kamonoffm-320.mp3"}
+{"name":"Радио Lofi","url":"https://play.lofiradio.ru:8000/mp3_320"}
+{"name":"Радио MCM (Усть-Илимск)","url":"http://91.219.136.152:55655/stream5.mp3"}
+{"name":"Радио Mafblan FM","url":"http://radio-srv1.11one.ru/edm192k.mp3"}
+{"name":"Радио Mafblan FM - ASOT","url":"http://radio-srv1.11one.ru/asot192k.mp3"}
+{"name":"Радио Maximum","url":"http://maximum.hostingradio.ru/maximum128.mp3"}
+{"name":"Радио Maximum (Тверь)","url":"http://radio.tp.tver.ru:8000/maximum_mp3"}
+{"name":"Радио NRJ (Альметьевск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_83"}
+{"name":"Радио NRJ (Ачинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_78"}
+{"name":"Радио NRJ (Барнаул)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_113"}
+{"name":"Радио NRJ (Белово)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_75"}
+{"name":"Радио NRJ (Белокуриха)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_74"}
+{"name":"Радио NRJ (Березники)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_72"}
+{"name":"Радио NRJ (Благовещенск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_246"}
+{"name":"Радио NRJ (Брянск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_121"}
+{"name":"Радио NRJ (Владимир)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_106"}
+{"name":"Радио NRJ (Волгоград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_68"}
+{"name":"Радио NRJ (Вологда)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_155"}
+{"name":"Радио NRJ (Воткинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_91"}
+{"name":"Радио NRJ (Губкин)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_168"}
+{"name":"Радио NRJ (Егорьевск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_216"}
+{"name":"Радио NRJ (Екатеринбург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_60"}
+{"name":"Радио NRJ (Зарайск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_58"}
+{"name":"Радио NRJ (Иваново)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_57"}
+{"name":"Радио NRJ (Казань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_55"}
+{"name":"Радио NRJ (Калининград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_116"}
+{"name":"Радио NRJ (Канск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_120"}
+{"name":"Радио NRJ (Кемерово)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_128"}
+{"name":"Радио NRJ (Киров)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_253"}
+{"name":"Радио NRJ (Комсомольск на-Амуре)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_49"}
+{"name":"Радио NRJ (Кострома)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_46"}
+{"name":"Радио NRJ (Краснодар)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_48"}
+{"name":"Радио NRJ (Красноярск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_47"}
+{"name":"Радио NRJ (Липецк)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_119"}
+{"name":"Радио NRJ (Лиски)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_166"}
+{"name":"Радио NRJ (Магадан)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_251"}
+{"name":"Радио NRJ (Михайловка)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_107"}
+{"name":"Радио NRJ (Можга)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_92"}
+{"name":"Радио NRJ (Набережные Челны)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_35"}
+{"name":"Радио NRJ (Новокузнецк)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_31"}
+{"name":"Радио NRJ (Новосибирск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_32"}
+{"name":"Радио NRJ (Новый Уренгой)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_30"}
+{"name":"Радио NRJ (Норильск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_194"}
+{"name":"Радио NRJ (Омск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_90"}
+{"name":"Радио NRJ (Пенза)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_100"}
+{"name":"Радио NRJ (Переславль-Залесский)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_158"}
+{"name":"Радио NRJ (Пермь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_26"}
+{"name":"Радио NRJ (Петрозаводск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_115"}
+{"name":"Радио NRJ (Петропавловск-Камчатский)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_177"}
+{"name":"Радио NRJ (Ростов на-Дону)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_98"}
+{"name":"Радио NRJ (Рязань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_23"}
+{"name":"Радио NRJ (С.Петербург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_84"}
+{"name":"Радио NRJ (Салават)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_22"}
+{"name":"Радио NRJ (Самара)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_21"}
+{"name":"Радио NRJ (Саратов)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_20"}
+{"name":"Радио NRJ (Смоленск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_150"}
+{"name":"Радио NRJ (Сочи)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_16"}
+{"name":"Радио NRJ (Ставрополь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_212"}
+{"name":"Радио NRJ (Сургут)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_102"}
+{"name":"Радио NRJ (Тверь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_117"}
+{"name":"Радио NRJ (Уфа)","url":"http://hitster.hostingradio.ru:8010/nrjufa128.mp3"}
+{"name":"Радио NRJ (Хабаровск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_95"}
+{"name":"Радио NRJ (Чайковский)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_135"}
+{"name":"Радио NRJ (Чебоксары)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_202"}
+{"name":"Радио NRJ (Череповец)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_109"}
+{"name":"Радио NRJ (Южно-Сахалинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_207"}
+{"name":"Радио NRJ (Ярославль)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_energy_134"}
+{"name":"Радио Port Rock","url":"https://lk.castnow.ru:8100/portrock-192.mp3"}
+{"name":"Радио Republic (Назрань)","url":"http://media.zaoitt.ru:8080/radio.mp3"}
+{"name":"Радио Revolution (С.-Петербург)","url":"http://revolutionradio.ru:8000/live.mp3"}
+{"name":"Радио Rock Станция","url":"http://rockstation.radiostream.pro/mp3"}
+{"name":"Радио Rock Станция 74","url":"http://rockstation.radiostream.pro/mp3/74"}
+{"name":"Радио Rock Станция Cover","url":"http://rockstation.radiostream.pro/mp3/cover"}
+{"name":"Радио Story FM","url":"http://storyfm.hostingradio.ru:8031/storyfm128.mp3"}
+{"name":"Радио Studio 21 (Екатеринбург)","url":"http://emgregion.hostingradio.ru:8064/ekb.s21.mp3"}
+{"name":"Радио Studio 21 (Калининград)","url":"http://bp.koenig.ru:8000/Studio21_KLD.mp3"}
+{"name":"Радио Studio 21 (Омск)","url":"http://www.omskfm.ru:8000/8950-128.mp3"}
+{"name":"Радио Studio 21 (Санкт-Петербург)","url":"http://emgregion.hostingradio.ru:8064/spb.s21.mp3"}
+{"name":"Радио Studio 21 (Тольятти)","url":"http://emgregion.hostingradio.ru:8064/tolyati.s21.mp3"}
+{"name":"Радио Studio 21 (Челябинск)","url":"http://emgregion.hostingradio.ru:8064/chelyabinsk.s21.mp3"}
+{"name":"Радио Автодор","url":"http://avtodor-tr.hostingradio.ru/avtodortr128.mp3"}
+{"name":"Радио Алания FM (Владикавказ)","url":"http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3"}
+{"name":"Радио Алла/Спутник (Moldova)","url":"http://stream.hitfm.md:8000/Alla_mp3"}
+{"name":"Радио Алмазный край (Мирный)","url":"http://stream.almaz-media.tv:9100/radio/live.mp3"}
+{"name":"Радио Альфа (Пермь)","url":"http://online.alfafm.ru:8000/alfa_mp3"}
+{"name":"Радио Арктика","url":"http://radioarctika.hostingradio.ru/radioarctika128.mp3"}
+{"name":"Радио Ашкадар (Уфа)","url":"http://radio.mediacdn.ru/ashkadar.mp3"}
+{"name":"Радио Балтик Плюс (Советский)","url":"http://78.36.199.70:9000/BP_Neman_32.mp3"}
+{"name":"Радио Балтик плюс (Калининград)","url":"http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3"}
+{"name":"Радио Балтик плюс (Пионерский)","url":"http://78.36.200.252:9000/BP_Pionersk_32.mp3"}
+{"name":"Радио Бизнес FM (С.-Петербург)","url":"http://bfmreg.hostingradio.ru/spb.bfm128.mp3"}
+{"name":"Радио Благо (Коломна)","url":"https://live.radioblago.ru/live-1.mp3"}
+{"name":"Радио Бонч (С.-Петербург)","url":"http://radio.spbsut.ru:8000/stream.mp3"}
+{"name":"Радио Буряад FM (Улан-Удэ)","url":"http://buryadfm.hostingradio.ru:8018/buryadfm128.mp3"}
+{"name":"Радио Ваня (Брянск)","url":"http://109.198.193.192:8008/BRYANSK_BAHR_office_AIR.mp3"}
+{"name":"Радио Ваня (Кострома)","url":"http://vanyareg.hostingradio.ru/kostroma.vanya128.mp3"}
+{"name":"Радио Ваня (Омск)","url":"http://www.omskfm.ru:8000/881-128.mp3"}
+{"name":"Радио Ваня (Саратов)","url":"http://vanyareg.hostingradio.ru/saratov.vanya128.mp3"}
+{"name":"Радио Вера - Вера и время","url":"http://radiovera.hostingradio.ru:8007/radioveragorod128.mp3"}
+{"name":"Радио Вера - Вера классик","url":"http://radiovera.hostingradio.ru:8007/radioverausadba128.mp3"}
+{"name":"Радио Вера - Луг Духовный","url":"http://radiovera.hostingradio.ru:8007/radioveramolitva128.mp3"}
+{"name":"Радио Вера - О людях и смыслах","url":"http://radiovera.hostingradio.ru:8007/radioverasvetliyvecher128.mp3"}
+{"name":"Радио Вести FM (Иркутск)","url":"http://streams.vestiirk.ru:8000/vestifm.mp3"}
+{"name":"Радио Вести FM/ФМ на-Дону","url":"http://radio.mediacdn.ru/tihiy_don.mp3"}
+{"name":"Радио Волна (Эстония)","url":"http://ice.leviracloud.eu:8000/volna320-mp3"}
+{"name":"Радио Воскресение (Екатеринбург)","url":"http://217.24.181.164:8000/stream.mp3"}
+{"name":"Радио Вторая волна (Костомукша)","url":"http://93.190.204.101:8000/live_102_3.mp3"}
+{"name":"Радио Говорит Майкоп","url":"http://voicemaikop.hostingradio.ru:8003/voicemaikop128.mp3"}
+{"name":"Радио Говорит Москва","url":"http://media.govoritmoskva.ru:8880/rufm.mp3"}
+{"name":"Радио Голос Берлина","url":"http://rb-stream.de:8000/rrb_128.mp3"}
+{"name":"Радио Два Берега (Березники)","url":"http://2beregafm.ru:8100/ber_FM.mp3"}
+{"name":"Радио День","url":"https://radioday.fm/mp3site"}
+{"name":"Радио День (Ефремов)","url":"https://radioday.fm/mp3efr"}
+{"name":"Радио День - Иностранные","url":"https://radioday.fm/mp3forin_main"}
+{"name":"Радио День - Русские","url":"https://radioday.fm/mp3rus_main"}
+{"name":"Радио Джаз Филармоник","url":"http://broad.jazz-hall.ru:8000/jphradio.mp3"}
+{"name":"Радио Джем FM (Асбест)","url":"http://80.251.145.14:88/broadwave.mp3?src=3&rate=1"}
+{"name":"Радио Джокер","url":"http://rjoker.hostingradio.ru/rjoker128.mp3"}
+{"name":"Радио Дом Дружбы (Волгоград)","url":"http://62.109.3.230/dom_druzhby.mp3"}
+{"name":"Радио Европа Плюс","url":"http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Великий Новгород)","url":"http://emgregion.hostingradio.ru:8064/VNovgorod.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Владивосток)","url":"http://emgregion.hostingradio.ru:8064/vladivostok.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Владикавказ)","url":"http://emgregion.hostingradio.ru:8064/vladikavkaz.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Воронеж)","url":"http://emgregion.hostingradio.ru:8064/voronezh.europaplus.mp3"}
+{"name":"Радио Европа Плюс (КБР)","url":"http://85.173.103.46:8000/nalchik-europa.mp3"}
+{"name":"Радио Европа Плюс (Казань)","url":"http://emgregion.hostingradio.ru:8064/kazan.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Кореновск)","url":"http://185.46.17.115:8885/128k.mp3"}
+{"name":"Радио Европа Плюс (Котлас)","url":"http://emgregion.hostingradio.ru:8064/kotlas.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Набережные Челны)","url":"http://emgregion.hostingradio.ru:8064/nchelny.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Нижний Новгород)","url":"http://emgregion.hostingradio.ru:8064/nnovgorod.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Омск)","url":"http://79.133.160.197:8000/1019-128win.mp3"}
+{"name":"Радио Европа Плюс (Пермь)","url":"http://emgregion.hostingradio.ru:8064/perm.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Петропавловск-Камчатский)","url":"http://91.189.237.222:8000/europa.mp3"}
+{"name":"Радио Европа Плюс (Пятигорск)","url":"http://emgregion.hostingradio.ru:8064/stavropol.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Рязань)","url":"http://emgregion.hostingradio.ru:8064/ryazan.europaplus.mp3"}
+{"name":"Радио Европа Плюс (С.-Петербург)","url":"http://emgspb.hostingradio.ru/europaplusspb128.mp3"}
+{"name":"Радио Европа Плюс (Самара)","url":"http://emgregion.hostingradio.ru:8064/samara.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Сочи)","url":"http://emgregion.hostingradio.ru:8064/sochi.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Тольятти)","url":"http://emgregion.hostingradio.ru:8064/tolyati.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Улан-Удэ)","url":"http://emgregion.hostingradio.ru:8064/ulan-ude.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Уфа)","url":"http://emgregion.hostingradio.ru:8064/ufa.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Хабаровск)","url":"http://emgregion.hostingradio.ru:8064/habarovsk.europaplus.mp3"}
+{"name":"Радио Европа Плюс (Чита)","url":"http://emgregion.hostingradio.ru:8064/chita.europaplus.mp3"}
+{"name":"Радио Европа Плюс-Light","url":"http://europaplus.hostingradio.ru:8014/ep-light128.mp3"}
+{"name":"Радио Европа Плюс-New","url":"http://europaplus.hostingradio.ru:8014/ep-new128.mp3"}
+{"name":"Радио Европа Плюс-Party","url":"http://epdop.hostingradio.ru:8033/epparty128.mp3"}
+{"name":"Радио Европа Плюс-ResiDance","url":"http://europaplus.hostingradio.ru:8014/ep-residance128.mp3"}
+{"name":"Радио Европа Плюс-TOP 40","url":"http://europaplus.hostingradio.ru:8014/ep-top256.mp3"}
+{"name":"Радио Европа Плюс-Urban","url":"http://europaplus.hostingradio.ru:8014/ep-urban128.mp3"}
+{"name":"Радио Европа Плюс-Акустика","url":"http://epdop.hostingradio.ru:8033/acoustic128.mp3"}
+{"name":"Радио Европа плюс (KZ)","url":"http://emgregion.hostingradio.ru:8064/kazakhstan.europaplus.mp3"}
+{"name":"Радио Зайцев FM-Bass","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_bass_256.mp3"}
+{"name":"Радио Зайцев FM-Classic","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_classic_256.mp3"}
+{"name":"Радио Зайцев FM-Club","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_electronic_256.mp3"}
+{"name":"Радио Зайцев FM-Disco","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3"}
+{"name":"Радио Зайцев FM-Folk Rock","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_folk_256.mp3"}
+{"name":"Радио Зайцев FM-KPop","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_kpop_256.mp3"}
+{"name":"Радио Зайцев FM-Love","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_holiday_256.mp3"}
+{"name":"Радио Зайцев FM-Metal","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_metal_256.mp3"}
+{"name":"Радио Зайцев FM-NewRock","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_alternative_256.mp3"}
+{"name":"Радио Зайцев FM-Pop","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3"}
+{"name":"Радио Зайцев FM-RNB","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3"}
+{"name":"Радио Зайцев FM-Rap","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_rap_256.mp3"}
+{"name":"Радио Зайцев FM-Relax","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_relax_256.mp3"}
+{"name":"Радио Зайцев FM-Rus","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3"}
+{"name":"Радио Зайцев FM-День Победы","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_vday_256.mp3"}
+{"name":"Радио Зайцев FM-Зайчата","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3"}
+{"name":"Радио Зайцев FM-Новый год","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_newyear_256.mp3"}
+{"name":"Радио Зайцев FM-РуРок","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3"}
+{"name":"Радио Зайцев FM-Шансон","url":"http://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3"}
+{"name":"Радио Зеленый Город","url":"http://46.166.65.29:8008/live.mp3"}
+{"name":"Радио Иваново FM","url":"http://91.219.74.220:8000/IvanovoFM.mp3"}
+{"name":"Радио Игрим","url":"http://radioigrim.ru:8000/live.mp3"}
+{"name":"Радио Инфинити (Дорогобуж)","url":"http://radio.dor-net.ru:8000/radio_stream.mp3"}
+{"name":"Радио КП (Абакан)","url":"http://kpradio.hostingradio.ru:8000/abakan.radiokp128.mp3"}
+{"name":"Радио КП (Астрахань)","url":"http://kpradio.hostingradio.ru:8000/astrakhan.radiokp128.mp3"}
+{"name":"Радио КП (Барнаул)","url":"http://kpradio.hostingradio.ru:8000/barnaul.radiokp128.mp3"}
+{"name":"Радио КП (Благовещенск)","url":"http://kpradio.hostingradio.ru:8000/blagoveshensk.radiokp128.mp3"}
+{"name":"Радио КП (Владивосток)","url":"http://kpradio.hostingradio.ru:8000/vladivostok.radiokp128.mp3"}
+{"name":"Радио КП (Владимир)","url":"http://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3"}
+{"name":"Радио КП (Волгоград)","url":"http://kpradio.hostingradio.ru:8000/volgograd.radiokp128.mp3"}
+{"name":"Радио КП (Воронеж)","url":"http://kpradio.hostingradio.ru:8000/voroneg.radiokp128.mp3"}
+{"name":"Радио КП (Донецк)","url":"http://kpradio.hostingradio.ru:8000/donetck.radiokp128.mp3"}
+{"name":"Радио КП (Екатеринбург)","url":"http://kpradio.hostingradio.ru:8000/ekaterinburg.radiokp128.mp3"}
+{"name":"Радио КП (Ижевск)","url":"http://kpradio.hostingradio.ru:8000/igevsk.radiokp128.mp3"}
+{"name":"Радио КП (Иркутск)","url":"http://kpradio.hostingradio.ru:8000/irkutsk.radiokp128.mp3"}
+{"name":"Радио КП (Калининград)","url":"http://kpradio.hostingradio.ru:8000/kaliningrad.radiokp128.mp3"}
+{"name":"Радио КП (Краснодар)","url":"http://kpradio.hostingradio.ru:8000/krasnodar.radiokp128.mp3"}
+{"name":"Радио КП (Красноярск)","url":"http://kpradio.hostingradio.ru:8000/krasnoyrsk.radiokp128.mp3"}
+{"name":"Радио КП (Липецк)","url":"http://kpradio.hostingradio.ru:8000/lipetck.radiokp128.mp3"}
+{"name":"Радио КП (Нижний Новгород)","url":"http://kpradio.hostingradio.ru:8000/nnovgorod.radiokp128.mp3"}
+{"name":"Радио КП (Новосибирск)","url":"http://kpradio.hostingradio.ru:8000/novosibirsk.radiokp128.mp3"}
+{"name":"Радио КП (Пермь)","url":"http://kpradio.hostingradio.ru:8000/perm.radiokp128.mp3"}
+{"name":"Радио КП (Ростов на Дону)","url":"http://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3"}
+{"name":"Радио КП (С.-Петербург)","url":"http://kpradio.hostingradio.ru:8000/spb.radiokp128.mp3"}
+{"name":"Радио КП (Самара)","url":"http://kpradio.hostingradio.ru:8000/samara.radiokp128.mp3"}
+{"name":"Радио КП (Саратов)","url":"http://kpradio.hostingradio.ru:8000/saratov.radiokp128.mp3"}
+{"name":"Радио КП (Севастополь)","url":"http://kpradio.hostingradio.ru:8000/sevastopol.radiokp128.mp3"}
+{"name":"Радио КП (Симферополь)","url":"http://kpradio.hostingradio.ru:8000/crimea.radiokp128.mp3"}
+{"name":"Радио КП (Ставрополь)","url":"http://kpradio.hostingradio.ru:8000/stavropol.radiokp128.mp3"}
+{"name":"Радио КП (Тверь)","url":"http://kpradio.hostingradio.ru:8000/tver.radiokp128.mp3"}
+{"name":"Радио КП (Тюмень)","url":"http://kpradio.hostingradio.ru:8000/tumen.radiokp128.mp3"}
+{"name":"Радио КП (Хабаровск)","url":"http://kpradio.hostingradio.ru:8000/habarovsk.radiokp128.mp3"}
+{"name":"Радио КП (Ханты-Мансийск)","url":"http://kpradio.hostingradio.ru:8000/hanty-mansiysk.radiokp128.mp3"}
+{"name":"Радио КП (Челябинск)","url":"http://kpradio.hostingradio.ru:8000/chelyabinsk.radiokp128.mp3"}
+{"name":"Радио КП (Южно-Сахалинск)","url":"http://kpradio.hostingradio.ru:8000/yuzhno-sakhalinsk.radiokp128.mp3"}
+{"name":"Радио КП (Ярославль)","url":"http://kpradio.hostingradio.ru:8000/yaroslavl.radiokp128.mp3"}
+{"name":"Радио КЧР FM","url":"http://83.239.117.66:8043/kchrfm.mp3"}
+{"name":"Радио Кавказ-Хит (Черкесск)","url":"http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3"}
+{"name":"Радио Казак FM (Краснодар)","url":"http://radio.mediacdn.ru/kazak_fm.mp3"}
+{"name":"Радио Калина Красная FM (Тольятти)","url":"http://emgregion.hostingradio.ru:8064/tolyati.kk.mp3"}
+{"name":"Радио Классик","url":"http://jfm1.hostingradio.ru:14536/rcstream.mp3"}
+{"name":"Радио Классик - Essential","url":"http://jfm1.hostingradio.ru:14536/ecstream.mp3"}
+{"name":"Радио Классик - Gold","url":"http://jfm1.hostingradio.ru:14536/gcstream.mp3"}
+{"name":"Радио Классик - Vocals","url":"http://jfm1.hostingradio.ru:14536/cvstream.mp3"}
+{"name":"Радио Классик - Поэзия","url":"http://jfm1.hostingradio.ru:14536/pcstream.mp3"}
+{"name":"Радио Коммерсант FM","url":"http://kommersant77.hostingradio.ru:8016/kommersant128.mp3"}
+{"name":"Радио Кострома FM","url":"http://kostromafm.hostingradio.ru/kostromafm128.mp3"}
+{"name":"Радио Красная Армия (Тюмень)","url":"http://live.rzs.ru/ka.128.mp3"}
+{"name":"Радио Красно-белая волна","url":"http://onair.radio1922.ru:8000/192.mp3"}
+{"name":"Радио Красноярск FM","url":"http://online.krasnoyarskfm.ru:8000/krasnoyarskfm_mp3"}
+{"name":"Радио Крым","url":"http://fm.1tvcrimea.ru:8000/stream.mp3"}
+{"name":"Радио Крым.Точка","url":"http://radiowired.1tvcrimea.ru:9001/stream_provod.mp3"}
+{"name":"Радио Кунел (Набережные Челны)","url":"http://live.kunelradio.ru:8000/128.mp3"}
+{"name":"Радио Курай","url":"http://av.bimradio.ru:8066/kurai_mp3"}
+{"name":"Радио Курс (Курск)","url":"http://radio.dcatk.pro/radio.mp3"}
+{"name":"Радио Лайк FM (Брянск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_like_12"}
+{"name":"Радио Лайк FM (Кострома)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_like_27"}
+{"name":"Радио Лайк FM (Красноярск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_like_5"}
+{"name":"Радио Лайк FM (Орехово-Зуево)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_like_19"}
+{"name":"Радио Лайк FM (Рязань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_like_8"}
+{"name":"Радио Лайк FM (С.Петербург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_like_20"}
+{"name":"Радио Макс FM (Сочи)","url":"http://23.105.253.220:8000/maksfm192.mp3"}
+{"name":"Радио Мария FM (Киров)","url":"http://mariafm.ru:8000/maria-fm.mp3"}
+{"name":"Радио Маяк (Иркутск)","url":"http://streams.vestiirk.ru:8000/mayak.mp3"}
+{"name":"Радио Маяк (Красноярск)","url":"http://5.189.242.203:8000/mayak_krsk.mp3"}
+{"name":"Радио Маяк (Мурманск)","url":"http://radio.murman.tv/mayak/mp3"}
+{"name":"Радио Маяк (Оренбург)","url":"http://213.108.201.90:8000/maiak.mp3"}
+{"name":"Радио Маяк (Ростов на-Дону)","url":"http://icecast-vgtrk.cdnvideo.ru/mayak_dontr_mp3"}
+{"name":"Радио Мегаполис (Канада)","url":"http://192.163.233.47:8001/mp3"}
+{"name":"Радио Мегаполис (Самара)","url":"http://online.radio-megapolis.ru:8000/megapolis_mp3"}
+{"name":"Радио Милицейская Волна","url":"http://radiomv.hostingradio.ru/radiomv256.mp3"}
+{"name":"Радио Модель для сборки - Голос","url":"http://ice.planeset.ru:8000/mds_voice.mp3"}
+{"name":"Радио Модель для сборки - Музыка","url":"http://ice.planeset.ru:8000/mds.mp3"}
+{"name":"Радио Монте-Карло","url":"http://montecarlo.hostingradio.ru/montecarlo128.mp3"}
+{"name":"Радио Монте-Карло (Владикавказ)","url":"http://broadcast.osetiafm.ru/mc.mp3"}
+{"name":"Радио Монте-Карло (Иваново)","url":"http://91.219.74.220:8000/Monte-Carlo.mp3"}
+{"name":"Радио Монте-Карло (Омск)","url":"http://radio.mediacdn.ru/shanson_omsk.mp3"}
+{"name":"Радио Море (Крым)","url":"http://sea.1tvcrimea.ru:9003/stream_sea.mp3"}
+{"name":"Радио Нестандарт","url":"https://listen.radionestandart.ru:8200/128.mp3"}
+{"name":"Радио Ногинска","url":"http://radio-noginska.ru:8000/radio_mount.mp3"}
+{"name":"Радио Ностальгия FM","url":"http://nostalgiafm.hostingradio.ru:8000/nostalgia256.mp3"}
+{"name":"Радио Ностальгия FM - Мелодия","url":"http://nostalgiafm.hostingradio.ru:8000/RP.mp3"}
+{"name":"Радио Ностальжи Idoles","url":"http://78.159.239.19:8000/Idoles-mp3"}
+{"name":"Радио Ноябрьск 24","url":"http://radio.noyabrsk24.ru:8879/live.mp3"}
+{"name":"Радио Олимп (Челябинск)","url":"http://online.olimpfm.ru:8000/olimp_mp3"}
+{"name":"Радио Орехово-Зуево","url":"http://files.ozradio.ru:8001/ozradio128.mp3"}
+{"name":"Радио Орфей","url":"http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3"}
+{"name":"Радио Орфей - Бельканто","url":"https://channels.fonotron.ru:8000/Chan_75_256.mp3"}
+{"name":"Радио Орфей - Зарубежная хоровая","url":"https://channels.fonotron.ru:8000/Chan_60_256.mp3"}
+{"name":"Радио Орфей - Камерата","url":"https://channels.fonotron.ru:8000/Chan_76_256.mp3"}
+{"name":"Радио Орфей - Клавир","url":"https://channels.fonotron.ru:8000/Chan_77_256.mp3"}
+{"name":"Радио Орфей - Классика Эстрады","url":"https://channels.fonotron.ru:8000/Chan_7_192.mp3"}
+{"name":"Радио Орфей - Классика без границ","url":"http://orfeyfm.hostingradio.ru:8034/orpheuscwb192.mp3"}
+{"name":"Радио Орфей - Классика киномузыки","url":"https://channels.fonotron.ru:8000/Chan_9_192.mp3"}
+{"name":"Радио Орфей - Классика крупных форм","url":"https://channels.fonotron.ru:8000/Chan_8_192.mp3"}
+{"name":"Радио Орфей - Классика музыкального кроссовера","url":"https://channels.fonotron.ru:8000/Chan_6_192.mp3"}
+{"name":"Радио Орфей - Музыка кино","url":"https://channels.fonotron.ru:8000/Chan_67_256.mp3"}
+{"name":"Радио Орфей - Музыка мюзиклов","url":"https://channels.fonotron.ru:8000/Chan_66_256.mp3"}
+{"name":"Радио Орфей - Музыка с участием духовых","url":"https://channels.fonotron.ru:8000/Chan_65_256.mp3"}
+{"name":"Радио Орфей - Популярная классика","url":"https://channels.fonotron.ru:8000/Chan_72_256.mp3"}
+{"name":"Радио Орфей - Русская классика","url":"https://channels.fonotron.ru:8000/Chan_73_256.mp3"}
+{"name":"Радио Орфей - Русская хоровая","url":"https://channels.fonotron.ru:8000/Chan_64_256.mp3"}
+{"name":"Радио Орфей - Симфоническая музыка","url":"https://channels.fonotron.ru:8000/Chan_74_256.mp3"}
+{"name":"Радио Орфей - Современная хоровая","url":"https://channels.fonotron.ru:8000/Chan_61_256.mp3"}
+{"name":"Радио Орфей - Фолк-музыка","url":"https://channels.fonotron.ru:8000/Chan_63_256.mp3"}
+{"name":"Радио Орфей - Хоры из опер","url":"https://channels.fonotron.ru:8000/Chan_62_256.mp3"}
+{"name":"Радио ПИ FM","url":"http://cdn.pifm.ru/mp3"}
+{"name":"Радио Пилот FM (Асбест)","url":"http://80.251.145.16:88/broadwave.mp3?src=1&rate=1"}
+{"name":"Радио Пилот FM - Dance","url":"http://online.pilotfm.ru:8000/pilot_dance_mp3"}
+{"name":"Радио Пилот FM - Lounge","url":"http://online.pilotfm.ru:8000/pilot_lounge_mp3"}
+{"name":"Радио Пилот FM - Secret","url":"http://online.pilotfm.ru:8000/pilot_secret_mp3"}
+{"name":"Радио Пионер FM","url":"http://radio.dline-media.com/ppr128.mp3"}
+{"name":"Радио Пионер FM-Dance 9.0","url":"http://radio.dline-media.com/ppr_90.mp3"}
+{"name":"Радио Пионер FM-Кассета","url":"http://radio.dline-media.com/kasseta.mp3"}
+{"name":"Радио Пионер FM-Русская волна","url":"http://radio.dline-media.com/ru-wave.mp3"}
+{"name":"Радио Пирамида (KG)","url":"http://212.112.114.197:8000/piramida.mp3"}
+{"name":"Радио Прокопьевск","url":"http://radioserver.27trk.ru:8000/prokopievsk.mp3"}
+{"name":"Радио РНО","url":"https://rno.ru/data/radioRNO/radio256.mp3"}
+{"name":"Радио Релакс FM (Казань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_relax_9"}
+{"name":"Радио Ретро FM","url":"http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3"}
+{"name":"Радио Ретро FM (Белореченск)","url":"http://185.175.119.31:8102/128k.mp3"}
+{"name":"Радио Ретро FM (Владикавказ)","url":"http://emgregion.hostingradio.ru:8064/vladikavkaz.retrofm.mp3"}
+{"name":"Радио Ретро FM (Воронеж)","url":"http://emgregion.hostingradio.ru:8064/voronezh.retrofm.mp3"}
+{"name":"Радио Ретро FM (Екатеринбург)","url":"http://emgregion.hostingradio.ru:8064/ekb.retrofm.mp3"}
+{"name":"Радио Ретро FM (Калининград)","url":"http://bp.koenig.ru:8000/Retro_FM_KLD.mp3"}
+{"name":"Радио Ретро FM (Нижний Новгород)","url":"http://emgregion.hostingradio.ru:8064/nnovgorod.retrofm.mp3"}
+{"name":"Радио Ретро FM (Омск)","url":"http://79.133.160.197:8000/1057-128win.mp3"}
+{"name":"Радио Ретро FM (Пермь)","url":"http://emgregion.hostingradio.ru:8064/perm.retrofm.mp3"}
+{"name":"Радио Ретро FM (Петропавловск-Камчатский)","url":"http://91.189.237.222:8000/retro.mp3"}
+{"name":"Радио Ретро FM (С.-Петербург)","url":"http://emgspb.hostingradio.ru/retrofmspb128.mp3"}
+{"name":"Радио Ретро FM (Самара)","url":"http://emgregion.hostingradio.ru:8064/samara.retrofm.mp3"}
+{"name":"Радио Ретро FM (Сочи)","url":"http://emgregion.hostingradio.ru:8064/sochi.retrofm.mp3"}
+{"name":"Радио Ретро FM (Тихорецк)","url":"http://85.175.216.65:8884/128k.mp3"}
+{"name":"Радио Ретро FM (Тольятти)","url":"http://emgregion.hostingradio.ru:8064/tolyati.retrofm.mp3"}
+{"name":"Радио Ретро FM (Усть-Илимск)","url":"http://91.219.136.152:55655/stream4.mp3"}
+{"name":"Радио Ретро FM (Чита)","url":"http://emgregion.hostingradio.ru:8064/chita.retrofm.mp3"}
+{"name":"Радио Ретро FM - 70е","url":"http://retro.hostingradio.ru:8014/retro70-128.mp3"}
+{"name":"Радио Ретро FM - 80е","url":"http://retro.hostingradio.ru:8014/retro80-128.mp3"}
+{"name":"Радио Ретро FM - 90е","url":"http://retro.hostingradio.ru:8014/retro90-128.mp3"}
+{"name":"Радио Ретро FM - Вечеринка","url":"http://stream1.hostingradio.ru:8010/20_mp3_128"}
+{"name":"Радио Родных дорог","url":"http://stream1.radiord.ru:8000/live128.mp3"}
+{"name":"Радио Рок FM - 00s","url":"http://jfm1.hostingradio.ru:14536/rock00.mp3"}
+{"name":"Радио Рок FM - 70s","url":"http://jfm1.hostingradio.ru:14536/rock70.mp3"}
+{"name":"Радио Рок FM - 80s","url":"http://jfm1.hostingradio.ru:14536/rock80.mp3"}
+{"name":"Радио Рок FM - 90s","url":"http://jfm1.hostingradio.ru:14536/rock90.mp3"}
+{"name":"Радио Рок FM - Heavy","url":"http://jfm1.hostingradio.ru:14536/metal.mp3"}
+{"name":"Радио Рок FM - Prog","url":"http://jfm1.hostingradio.ru:14536/prog.mp3"}
+{"name":"Радио России (Владивосток)","url":"http://mp3.vestiprim.ru:8000/Radio128"}
+{"name":"Радио России (Иркутск)","url":"http://streams.vestiirk.ru:8000/ridio_rossii.mp3"}
+{"name":"Радио России (Красноярск)","url":"http://5.189.242.203:8000/radiorussia.mp3"}
+{"name":"Радио России (Мурманск)","url":"https://radio.murman.tv/ros/mp3"}
+{"name":"Радио России (Нальчик)","url":"http://31.41.56.29:8000/radio.mp3"}
+{"name":"Радио России (Оренбург)","url":"http://213.108.201.90:8000/russia.mp3"}
+{"name":"Радио России (Ростов-на-Дону)","url":"http://icecast.vgtrk.cdnvideo.ru/russiafm_dontr_mp3"}
+{"name":"Радио России (Якутск)","url":"https://livestream.gtrksakha.ru/test.mp3"}
+{"name":"Радио Ростова","url":"http://stream.jingles.ru:8000/closed-radio-mp3-256"}
+{"name":"Радио Русал FM","url":"http://m5m128.hostingradio.ru:8074/m5m128.mp3"}
+{"name":"Радио СИ (Асбест)","url":"http://80.251.145.14:88/broadwave.mp3?src=1&rate=1"}
+{"name":"Радио СИ (Рефтинский)","url":"http://80.251.145.14:88/broadwave.mp3?src=2&rate=1"}
+{"name":"Радио Серебряный Дождь","url":"http://silverrain.hostingradio.ru/silver128.mp3"}
+{"name":"Радио Серебряный Дождь (Калининград)","url":"http://stream.mediakit.ru:8080/39_silverrain_128mp3"}
+{"name":"Радио Серебряный Дождь (Кемерово)","url":"http://silverrainreg.hostingradio.ru/kemerovo.silver128.mp3"}
+{"name":"Радио Серебряный Дождь (Саратов)","url":"http://srsaratov.hostingradio.ru:80/srsaratov128.mp3"}
+{"name":"Радио Серебряный Дождь (Ставрополь)","url":"http://silverrainreg.hostingradio.ru/stavropol.silver128.mp3"}
+{"name":"Радио Серебряный Дождь (Тверь)","url":"http://87f20808b1fc.sn.mynetname.net:8012/160.mp3"}
+{"name":"Радио Серебряный Дождь (Ханты-Мансийск)","url":"http://silverrainreg.hostingradio.ru/hm.silver128.mp3"}
+{"name":"Радио Сити (Тюмень)","url":"http://online.100i6fm.ru:8000/city_mp3"}
+{"name":"Радио Союз FM","url":"http://soyuzfm.su:9000/soyuzfm-320.mp3"}
+{"name":"Радио Спутник FM (Волгоград)","url":"http://online.sputnikfm.ru:8000/sputnik_mp3"}
+{"name":"Радио Спутник FM (Уфа)","url":"http://radio.mediacdn.ru/sputnik_fm.mp3"}
+{"name":"Радио Сталинград (Волгоград)","url":"http://62.109.3.230/stalingrad.mp3"}
+{"name":"Радио ТЦ Планета","url":"http://m20m128.hostingradio.ru:8074/m20m128.mp3"}
+{"name":"Радио Татина","url":"http://82.146.46.229:8000/radio.mp3"}
+{"name":"Радио Той Думан (KZ)","url":"http://stream.gakku.tv:8000/live.mp3"}
+{"name":"Радио Ульяновск FM","url":"http://online.ulskfm.ru:8000/104i2_mp3"}
+{"name":"Радио Уфалея","url":"http://radio.ufaley.su:8000/stream.mp3"}
+{"name":"Радио ФМ-на Дону","url":"http://radio.mediacdn.ru/fm_na_donu.mp3"}
+{"name":"Радио Хакасия FM (Абакан)","url":"http://194.28.241.171:8000/kh.mp3"}
+{"name":"Радио Хит FM","url":"http://hitfm.hostingradio.ru/hitfm128.mp3"}
+{"name":"Радио Хит FM (Усть-Илимск)","url":"http://91.219.136.152:55655/stream6.mp3"}
+{"name":"Радио Хит-Навигатор (Ишимбай)","url":"http://navigator-rg.dynalias.org:8005/hit-navigator.mp3"}
+{"name":"Радио Чистый берег","url":"http://178.124.156.18:8000/HQ_320.mp3"}
+{"name":"Радио Шансон","url":"http://chanson.hostingradio.ru:8041/chanson256.mp3"}
+{"name":"Радио Шансон (Волгодонск)","url":"http://78.25.82.134:8000/stream-11-128-44100-mp3"}
+{"name":"Радио Шансон (Калининград)","url":"http://bp.koenig.ru:8000/Shanson_KLD.mp3"}
+{"name":"Радио Шансон (Костомукша)","url":"http://93.190.204.101:8000/live_105_5.mp3"}
+{"name":"Радио Шансон (Сочи)","url":"http://chanson.hostingradio.ru:8041/chanson-sochi192.mp3"}
+{"name":"Радио Шансон (Ставрополь)","url":"http://193.107.103.61:1684/shanson.mp3"}
+{"name":"Радио Шансон - Без Цензуры","url":"http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3"}
+{"name":"Радио Шансон - Романтика","url":"http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3"}
+{"name":"Радио Элит (Борисоглебск)","url":"http://80.82.60.245:8000/elit.mp3"}
+{"name":"Радио Эрмитаж (С.-Петербург)","url":"http://hermitage.hostingradio.ru/hermitage128.mp3"}
+{"name":"Радио Юлдаш (Уфа)","url":"http://radio.mediacdn.ru/uldash.mp3"}
+{"name":"Радио Юлдаш Plus (Уфа)","url":"http://radio.mediacdn.ru/uldash_new.mp3"}
+{"name":"Радио Юмор FM (Абакан)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_97"}
+{"name":"Радио Юмор FM (Альметьевск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_168"}
+{"name":"Радио Юмор FM (Астрахань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_8"}
+{"name":"Радио Юмор FM (Барнаул)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_239"}
+{"name":"Радио Юмор FM (Березники)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_68"}
+{"name":"Радио Юмор FM (Братск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_76"}
+{"name":"Радио Юмор FM (Брянск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_72"}
+{"name":"Радио Юмор FM (Владимир)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_24"}
+{"name":"Радио Юмор FM (Волгоград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_38"}
+{"name":"Радио Юмор FM (Волоколамск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_64"}
+{"name":"Радио Юмор FM (Воткинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_121"}
+{"name":"Радио Юмор FM (Глазов)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_96"}
+{"name":"Радио Юмор FM (Димитровград)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_207"}
+{"name":"Радио Юмор FM (Екатеринбург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_3"}
+{"name":"Радио Юмор FM (Железногорск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_94"}
+{"name":"Радио Юмор FM (Иркутск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_172"}
+{"name":"Радио Юмор FM (Казань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_175"}
+{"name":"Радио Юмор FM (Киров)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_317"}
+{"name":"Радио Юмор FM (Кострома)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_157"}
+{"name":"Радио Юмор FM (Красноярск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_313"}
+{"name":"Радио Юмор FM (Липецк)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_149"}
+{"name":"Радио Юмор FM (Михайловка)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_251"}
+{"name":"Радио Юмор FM (Можга)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_101"}
+{"name":"Радио Юмор FM (Набережные Челны)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_12"}
+{"name":"Радио Юмор FM (Нижний Новгород)","url":"http://online.radioc.ru:8000/humor_mp3"}
+{"name":"Радио Юмор FM (Нижний Тагил)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_212"}
+{"name":"Радио Юмор FM (Новокузнецк)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_213"}
+{"name":"Радио Юмор FM (Новосибирск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_16"}
+{"name":"Радио Юмор FM (Ожерелье)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_42"}
+{"name":"Радио Юмор FM (Оренбург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_306"}
+{"name":"Радио Юмор FM (Пачельма)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_214"}
+{"name":"Радио Юмор FM (Пенза)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_158"}
+{"name":"Радио Юмор FM (Пермь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_65"}
+{"name":"Радио Юмор FM (Ржев)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_15"}
+{"name":"Радио Юмор FM (Ростов на-Дону)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_10"}
+{"name":"Радио Юмор FM (Рязань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_286"}
+{"name":"Радио Юмор FM (Самара)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_30"}
+{"name":"Радио Юмор FM (Санкт-Петербург)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_6"}
+{"name":"Радио Юмор FM (Саранск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_217"}
+{"name":"Радио Юмор FM (Сарапул)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_55"}
+{"name":"Радио Юмор FM (Саратов)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_28"}
+{"name":"Радио Юмор FM (Севастополь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_163"}
+{"name":"Радио Юмор FM (Симферополь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_165"}
+{"name":"Радио Юмор FM (Славянск на-Кубани)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_107"}
+{"name":"Радио Юмор FM (Смоленск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_138"}
+{"name":"Радио Юмор FM (Ставрополь)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_176"}
+{"name":"Радио Юмор FM (Сургут)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_120"}
+{"name":"Радио Юмор FM (Сызрань)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_104"}
+{"name":"Радио Юмор FM (Тайшет)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_133"}
+{"name":"Радио Юмор FM (Тула)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_11"}
+{"name":"Радио Юмор FM (Тулун)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_174"}
+{"name":"Радио Юмор FM (Усть-Илимск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_143"}
+{"name":"Радио Юмор FM (Чайковский)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_242"}
+{"name":"Радио Юмор FM (Чебоксары)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_287"}
+{"name":"Радио Юмор FM (Челябинск)","url":"http://pub0302.101.ru:8000/stream/reg/mp3/128/region_humor_1"}
+{"name":"Радио Юнистар BY","url":"http://unistar.webcaramba.com/unistar_main128.mp3"}
+{"name":"Радио Юнистар BY - 2000е","url":"http://unistar.webcaramba.com/unistar_best128.mp3"}
+{"name":"Радио Юнистар BY - Мой Рок-н-ролл","url":"http://unistar.webcaramba.com/unistar_rock128.mp3"}
+{"name":"Радио Юнистар BY - Офисная музыка","url":"http://unistar.webcaramba.com/unistar_office128.mp3"}
+{"name":"Радио Юнистар BY - Свежие хиты","url":"http://unistar.webcaramba.com/unistar_top128.mp3"}
+{"name":"Радиола (Екатеринбург)","url":"http://online.gkvr.ru/radiola_eka_128.mp3"}
+{"name":"Радиола (Нижний Новгород)","url":"http://online.gkvr.ru/radiola_nno_128.mp3"}
+{"name":"Радиола (Самара)","url":"http://online.gkvr.ru/radiola_sam_128.mp3"}
+{"name":"Радиола (Саратов)","url":"http://online.gkvr.ru/radiola_srt_128.mp3"}
+{"name":"Родное Радио (Литва)","url":"https://transliacija.rusradio.lt/rrb128.mp3"}
+{"name":"Русское Радио","url":"http://rusradio.hostingradio.ru/rusradio128.mp3"}
+{"name":"Русское Радио (Буденновск)","url":"http://stream.stvradio.online:8040/rr_bud.mp3"}
+{"name":"Русское Радио (Владикавказ)","url":"http://broadcast.osetiafm.ru/rr.mp3"}
+{"name":"Русское Радио (Волгодонск)","url":"http://78.25.82.134:8000/stream-21-128-44100-mp3"}
+{"name":"Русское Радио (КЧР)","url":"http://83.239.117.66:8043/rusradio_kchr.mp3"}
+{"name":"Русское Радио (Кореновск)","url":"http://185.46.17.115:8881/128k.mp3"}
+{"name":"Русское Радио (Краснодар)","url":"http://85.175.96.16:8000/mp3"}
+{"name":"Русское Радио (Петропавловск-Камчатский)","url":"http://91.189.237.222:8000/russkoye.mp3"}
+{"name":"Справедливое Радио","url":"http://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3"}
+{"name":"ТНТ Music Радио","url":"http://tntradio.hostingradio.ru:8027/tntmr256.mp3"}
+{"name":"ТНТ Music Радио (Белгород)","url":"http://play.radioradio.ru/mp3"}
+{"name":"ТНТ Music-Hip Hop","url":"http://tntradio.hostingradio.ru:8027/hhr256.mp3"}
+{"name":"Татар Радиосы (Набережные Челны)","url":"http://stream.tatarradio.ru:2068/chally.mp3"}
+{"name":"Эльдорадио (С.-Петербург)","url":"http://emgspb.hostingradio.ru/eldoradio128.mp3"}
+{"name":"9 FM (Витебск)","url":"http://178.172.150.248:2530/;stream.mp3"}
+{"name":"1Крым","url":"http://fm.1tvcrimea.ru:8000/stream.mp3"}
+{"name":"7 / на семи холмах 104.7 FM","url":"http://retroserver.streamr.ru:8040/radio7128.mp3"}
+{"name":"Bigtunesradio - trance","url":"http://bigtunesradio.com:8000/trance.mp3?type=.mp3/;stream.mp3"}
+{"name":"Bim radio","url":"http://av.bimradio.ru:8066/bim_mp3"}
+{"name":"Dance Wave Retro!","url":"http://retro.dancewave.online/retrodance.mp3"}
+{"name":"Dance Wave!","url":"http://dancewave.online/dance.mp3"}
+{"name":"DI Radio Digital Impulse - Avivmedia","url":"http://orion.shoutca.st:8231/;audio.mp3"}
+{"name":"Dorognoe frontovaya","url":"http://dorognoe.hostingradio.ru:8000/dorognoe1945.mp3"}
+{"name":"Hosting radio","url":"http://hrradio.hostingradio.ru:8077/hrradio128.mp3"}
+{"name":"Jazz FM.ru - Instrumental Jazz","url":"http://jfm1.hostingradio.ru:14536/ijstream.mp3"}
+{"name":"Jazz FM.ru - Jazz Legends","url":"http://jfm1.hostingradio.ru:14536/jlstream.mp3"}
+{"name":"Kunel Радио  Набережные Челны","url":"http://live.kunelradio.ru:8000/128.mp3"}
+{"name":"NN-Radio 99.5 FM AC-POP","url":"http://cast.r52.ru:8000/nrd?1446455849857.mp3"}
+{"name":"Radio &quot;My Udmurtiya&quot;","url":"http://radio.myudm.ru:10010/mp3"}
+{"name":"Radio 3 OMSK","url":"http://81.23.194.18:8010/radio3.mp3"}
+{"name":"Radio Miliceyskaya volna Novokuznetsk","url":"http://radio.mvd.ru:8000/mv128.mp3"}
+{"name":"RADIO13.RU","url":"http://play.radio13.ru:8000/mp3"}
+{"name":"Radiokrylya","url":"https://myradio24.org/rkradio_256.mp3"}
+{"name":"Revolution Radio","url":"http://revolutionradio.ru:8000/live.mp3"}
+{"name":"Shanson FM - Romantic","url":"http://chanson.hostingradio.ru:8041/chanson-romantic128.mp3?"}
+{"name":"Shanson FM - UNC","url":"http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3?"}
+{"name":"Yum FM","url":"http://yumfm.hostingradio.ru:8020/yumfm128.mp3"}
+{"name":"Автомат и гитара-radio","url":"http://195.128.127.63:88/mp3"}
+{"name":"7","url":"http://91.219.74.220:8000/IvanovoFM.mp3"}
+{"name":"Мария ФМ","url":"http://mariafm.ru:8000/maria-fm-128.mp3"}
+{"name":"Проводное радио 1Крым","url":"http://radiowired.1tvcrimea.ru:9001/stream_provod.mp3"}
+{"name":"Радио Море","url":"http://sea.1tvcrimea.ru:9003/stream_sea.mp3"}
+{"name":"Радио Родных Дорог","url":"http://stream1.radiord.ru:8000/live96.mp3"}
+{"name":" Волгоград","url":"http://online.sputnikfm.ru:8000/sputnik_mp3"}
+{"name":"Радиола Екатеринбург","url":"http://online1.gkvr.ru:8000/radiola_eka_128.mp3"}
+{"name":"Радиола Саратов","url":"http://online1.gkvr.ru:8000/radiola_srt_128.mp3"}
+{"name":"Best FM Мариуполь 102.8 FM","url":"http://radio.bestfm.fm/bestfm_mp3"}
+{"name":"Old Fashioned Radio - Jazz Blues","url":"http://air.ofr.fm:8008/;stream.mp3"}
+{"name":"Old Fashioned Radio - Radio Zemlya","url":"http://air.ofr.fm:8004/;stream.mp3"}
+{"name":"Old Fashioned Radio - Rock","url":"http://air.ofr.fm:8012/;stream.mp3"}
+{"name":"Old Fashioned Radio - Show Music","url":"http://91.239.232.234:8000/;stream.mp3"}
+{"name":"Radio Station 103.2 FM","url":"http://91.205.207.98:8081/acc.mp3"}
+{"name":"Radio Zakarpattya FM Mukachevo101.9","url":"http://195.234.148.51:8000/;stream.mp3"}
+{"name":"Сяйво","url":"http://stream.ntktv.ua:8000/syaivo.mp3"}
+{"name":"ТАКТ","url":"http://radiotakt.com.ua:8000/takt.mp3?type=.flv"}
+{"name":"16Bit.FM-Cafe/Москва/128-MP3","url":"http://16bitfm.com:8000/cafe_mp3_128"}
+{"name":"16Bit.FM-I.D.E.A./Москва/128-MP3","url":"http://16bitfm.com:8000/idea_mp3_128"}
+{"name":"16Bit.FM-ProBeat/Москва/128-MP3","url":"http://16bitfm.com:8000/main_mp3_128"}
+{"name":"Europa Plus/Москва/256-MP3","url":"http://ep256.hostingradio.ru:8052/europaplus256.mp3"}
+{"name":"G-Drive Radio/Москва/128-MP3","url":"http://m4m128.hostingradio.ru:8074/m4m128.mp3"}
+{"name":"Gardarica FM-Gold/Санкт-Петербург/128-MP3","url":"http://stream.gardaricafm.ru:8000/gold.mp3"}
+{"name":"HR Radio/Москва/128-MP3","url":"http://hrradio.hostingradio.ru:8077/hrradio128.mp3"}
+{"name":"Kids Hits/Москва/192-MP3","url":"http://92.255.229.74:8000/kidshits_mp3_192"}
+{"name":"MDS Play-МДС Музыка/Москва/128-MP3","url":"http://ice.planeset.ru:8000/mds.mp3"}
+{"name":"MDS Play-Модель для сборки 2/Москва/128-MP3","url":"http://ice.planeset.ru:8000/mds_voice.mp3"}
+{"name":"Orgasma-Black/Калининград/128-MP3","url":"http://listen.orgasma.fm:8000/blackmp3"}
+{"name":"Orgasma-Late/Калининград/128-MP3","url":"http://listen.orgasma.fm:8000/latemp3"}
+{"name":"Orgasma-White/Калининград/128-MP3","url":"http://listen.orgasma.fm:8000/whitemp3"}
+{"name":"Rock FM-00/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/rock00.mp3"}
+{"name":"Rock FM-70/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/rock70.mp3"}
+{"name":"Rock FM-80/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/rock80.mp3"}
+{"name":"Rock FM-90/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/rock90.mp3"}
+{"name":"Rock FM-Heavy/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/metal.mp3"}
+{"name":"Rock FM-Prog/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/prog.mp3"}
+{"name":"Turbo FM/Москва/128-MP3","url":"http://m2m128.hostingradio.ru:8074/m2m128.mp3"}
+{"name":"Ultima.FM/Орел/192-MP3","url":"http://sc.ultima.fm:8001/stream/1/stream.mp3"}
+{"name":"Yum FM/Москва/128-MP3","url":"http://yumfm.hostingradio.ru:8020/yumfm128.mp3"}
+{"name":"Zaycev.fm-K-Pop/Москва/128-MP3","url":"https://zaycevfm.cdnvideo.ru/ZaycevFM_kpop_128.mp3"}
+{"name":"Zaycev.fm-Зайчата/Москва/128-MP3","url":"https://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_128.mp3"}
+{"name":"БИМ-радио Казань/Казань/128-MP3","url":"http://av.bimradio.ru:8066/bim_mp3_128k"}
+{"name":"ВЭБ Радио/Москва/128-MP3","url":"http://m5m128.hostingradio.ru:8074/m5m128.mp3"}
+{"name":"Говорит Майкоп/Майкоп/128-MP3","url":"http://voicemaikop.hostingradio.ru:8003/voicemaikop128.mp3"}
+{"name":"Говорит Москва/Москва/96-MP3","url":"http://video.govoritmoskva.ru:8000/rufm.mp3"}
+{"name":"Кавказ Хит/Черкесск/96-MP3","url":"http://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3"}
+{"name":"Классное Радио/Москва/128-MP3","url":"http://schoolradio.hostingradio.ru:8026/schoolradio128.mp3"}
+{"name":"Красноярск FM/Красноярск/128-MP3","url":"http://online.krasnoyarskfm.ru:8000/krasnoyarskfm_mp3"}
+{"name":"Кунел Радиосы/Набережные Челны/128-MP3","url":"http://live.kunelradio.ru:8000/128.mp3"}
+{"name":"Лена FM/Усть-Кут/128-MP3","url":"http://radio.60500.ru:8000/lenafm128.mp3"}
+{"name":"Мария FM/Киров/128-MP3","url":"http://mariafm.ru:8000/maria-fm-128.mp3"}
+{"name":"Мария FM/Киров/192-MP3","url":"http://mariafm.ru:8000/maria-fm.mp3"}
+{"name":"Наше Радио-Классик рок/Москва/128-MP3","url":"https://nashe1.hostingradio.ru:18000/nasheclassic.mp3"}
+{"name":"Наше Радио-Панки хой!/Москва/128-MP3","url":"https://nashe1.hostingradio.ru:18000/nashepunks.mp3"}
+{"name":"Наше Радио-Щас спою/Москва/128-MP3","url":"https://nashe1.hostingradio.ru:18000/nashesongs.mp3"}
+{"name":"Нефтерадио/Омск/128-MP3","url":"http://m10m128.hostingradio.ru:8074/m10m128.mp3"}
+{"name":"Первое Интернет-Радио/Ростов-на-Дону/128-MP3","url":"http://live.pervoeradio.net:7000/live128.mp3"}
+{"name":"Первое Интернет-Радио/Ростов-на-Дону/256-MP3","url":"http://live.pervoeradio.net:7000/live256.mp3"}
+{"name":"Пилот FM-Dance/Екатеринбург/128-MP3","url":"http://online.pilotfm.ru:8000/pilot_dance_mp3"}
+{"name":"Пилот FM-Lounge/Екатеринбург/128-MP3","url":"http://online.pilotfm.ru:8000/pilot_lounge_mp3"}
+{"name":"Пилот FM-Secret/Екатеринбург/128-MP3","url":"http://online.pilotfm.ru:8000/pilot_secret_mp3"}
+{"name":"Радио-3/Омск/128-MP3","url":"http://81.23.194.18:8010/radio3.mp3"}
+{"name":"Радио 1 (РТВ-Подмосковье)/Москва/128-MP3","url":"http://cdn.radio1.news:8000/rtvp_mp3"}
+{"name":"Радио 10/Петрозаводск/128-MP3","url":"http://ic.radio10.live/stream.mp3"}
+{"name":"Радио 54/Новосибирск/128-MP3","url":"http://91.202.68.50:8000/;stream.mp3"}
+{"name":"Радио 99.1 FM/Красноярск/128-MP3","url":"http://online.99-1.ru:8000/99i1_mp3"}
+{"name":"Радио Jazz-Classic/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/ijstream.mp3"}
+{"name":"Радио Jazz-Jazz Legends/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/jlstream.mp3"}
+{"name":"Радио Jazz-Smooth Jazz/Москва/128-MP3","url":"http://jfm1.hostingradio.ru:14536/sjstream.mp3"}
+{"name":"Радио Альфа/Пермь/128-MP3","url":"http://online.alfafm.ru:8000/alfa_mp3"}
+{"name":"Радио Балтик Плюс/Калининград/128-MP3","url":"http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3"}
+{"name":"Радио Вера-Вера и время/Москва/128-MP3","url":"http://radiovera.hostingradio.ru:8007/radioveragorod128.mp3"}
+{"name":"Радио Вера-Классик/Москва/128-MP3","url":"http://radiovera.hostingradio.ru:8007/radioverausadba128.mp3"}
+{"name":"Радио Вера-Луг Духовный/Москва/128-MP3","url":"http://radiovera.hostingradio.ru:8007/radioveramolitva128.mp3"}
+{"name":"Радио Вера-О людях и смыслах/Москва/128-MP3","url":"http://radiovera.hostingradio.ru:8007/radioverasvetliyvecher128.mp3"}
+{"name":"Радио Иваново/Иваново/128-MP3","url":"http://91.219.74.220:8000/IvanovoFM.mp3"}
+{"name":"Радио Искатель/Москва/128-MP3","url":"http://iskatel.hostingradio.ru:8015/iskatel-128.mp3"}
+{"name":"Радио Крым.Точка/Симферополь/128-MP3","url":"http://radiowired.1tvcrimea.ru:9001/stream_provod.mp3"}
+{"name":"Радио Крым/Симферополь/128-MP3","url":"http://fm.1tvcrimea.ru:8000/stream.mp3"}
+{"name":"Радио Курай/Казань/128-MP3","url":"http://av.bimradio.ru:8066/kurai_mp3"}
+{"name":"Радио Мегаполис/Самара/128-MP3","url":"http://online.radio-megapolis.ru:8000/megapolis_mp3"}
+{"name":"Радио Море/Симферополь/128-MP3","url":"http://sea.1tvcrimea.ru:9003/stream_sea.mp3"}
+{"name":"Радио Нестандарт/Москва/128-MP3","url":"http://listen.radionestandart.ru:8200/128.mp3"}
+{"name":"Радио Олимп/Челябинск/128-MP3","url":"http://online.olimpfm.ru:8000/olimp_mp3"}
+{"name":"Радио Прокопьевск/Прокопьевск/192-MP3","url":"http://radioserver.27trk.ru:8000/prokopievsk.mp3"}
+{"name":"Радио Родных Дорог/Чебоксары/96-MP3","url":"http://stream1.radiord.ru:8000/live96.mp3"}
+{"name":"Радио Сити/Тюмень/128-MP3","url":"http://online.100i6fm.ru:8000/city_mp3"}
+{"name":"Радио Спутник/Волгоград/128-MP3","url":"http://online.sputnikfm.ru:8000/sputnik_mp3"}
+{"name":"Радио Экспресс/Орел/128-MP3","url":"http://159.253.18.97:8000/128kbit.mp3"}
+{"name":"Радиола 106.2 FM/Екатеринбург/128-MP3","url":"http://online1.gkvr.ru:8000/radiola_eka_128.mp3"}
+{"name":"Русское FM/Москва/128-MP3","url":"http://radio.russkoe.fm:8000/russkoefm_mp3"}
+{"name":"Хакасия FM/Абакан/128-MP3","url":"http://194.28.241.173:8000/khs.mp3"}
+{"name":"Чайхона Family Radio/Москва/128-MP3","url":"http://m11m128.hostingradio.ru:8074/m11m128.mp3"}
+{"name":"Шансон Романтический/Москва/128-MP3","url":"http://chanson.hostingradio.ru:8041/chanson-romantic128.mp3"}
+{"name":"NRK mP3","url":"https://str.pcradio.ru/nrk_mp3_no-hi"}
